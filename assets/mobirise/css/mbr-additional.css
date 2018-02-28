@@ -413,9 +413,13 @@ h6,
 }
 #header1-0 .mbr-section-title {
   color: #f28281;
+  font-size: 48px;
 }
 #header1-0 .mbr-section-lead {
   color: #f28281;
+}
+#header1-0 .mbr-section-lead B {
+  font-size: 20px;
 }
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
