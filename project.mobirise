@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomesissy2",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -67,6 +67,15 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#f28281"
+            },
+            "H2": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "0",
@@ -121,16 +130,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-4",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#f28281"
-            },
-            "H2": {
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "menu",
@@ -319,6 +319,17 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#eb6b56"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#f28281"
+            }
+          },
           "_anchor": "features1-9",
           "_params": {
             "columnsColor": "#eb6b56",
@@ -430,18 +441,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#eb6b56"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#f28281"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -787,6 +787,301 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "aboutnicole ": {
+      "settings": {
+        "title": "About Your trainer Mistress Nicole",
+        "meta_descr": "Learn about why Mistress Nicole is training sissies. "
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-f",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"sissytraininghouse.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">Appy Now</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "About your trainer Nicole",
+          "meta": "Who am I, and why am I giving you this one in a lifetime chance to be a fabulous success story that makes all your friends jealous? "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-n",
+          "_params": {
+            "imageSize": "40",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-mg-8653-large-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "About your trainer Nicole&nbsp;",
+          "text": "I am a young dominatrix that seemed to be born dominant. I refused to be told how, what, and when to think about societies norms and values. I love to challenge what living in this world really is, and it does sadden me when I see people stuck and trapped in a life they are not happy living. I have many dreams and hopes in this world but my main one is to create my own little world where animals and humans are free to exist without fear or harm of abuse. This includes people that want to change their gender, transgender people, and kinky little sissies! <br>It is great being a Pro-Domme, it gives me the chance to meet so many people from alternative ways of thinking, kinks, and even worlds! It is a wonderful experience to encourage, watch, and demand a person's true self come out in front of you. Sometimes the person can only be themselves for those one or two hours they are with me... This sometimes bugs me, since I want to see and help the subs that come to see me to be brave, take a chance, and embrace their inner yearnings. <br>But I guess you are wondering why such an interest in sissies.... Well, ain't they beautiful human beings?... And gosh they sure can be kinky! My interest in sissies and my love for them started many years ago.&nbsp;.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-o",
+          "_params": {
+            "imageSize": "40",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-mg-9533-large-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Why an interest in sissies&nbsp;",
+          "text": "I met the most beautiful transgender woman when I was young. She lived in a penthouse, with a fancy car, clothes, and even young men surrounding her. She drew everyone's attention when she walked into the room. Everyone wanted to be around her and try to get a moment of her time. There was also this amazing aura and elegance to her. It was only later I got to find out she used to be miserable, had endless health problems, was stuck in a low paying job, and felt trapped in a man's body. However, she managed to change her circumstances and herself through part luck but mostly through hard work and doing an alternative job to what others do. A whole new world opened up to her once she took that step into her new lifestyle, and the world changed around her. This is not to say that it was all easy and she never faced difficulties. I later found out that she had a kind of guardian that helped and protected her while she transitioned into who she is now. She doesn't regret a thing and always smiles fondly about her guardian. I have had sessions with lots of subs that want to be full-time sissies, that go back to their vanilla life and then long to be that sissy again the next time we meet. It makes me think about how much their world and their life could change if they too had a guardian to help and support them into their transition... so I am going to be that guardian, protector, advisor, and trainer to any wannabe sissy or pre- transgender woman that is out there.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-p",
+          "_params": {
+            "imageSize": "40",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Your chance is now&nbsp;",
+          "text": "It takes hard work from the both of us, I will invest my time, skills, connections and care into you. For this, you should give your best in this opportunity. It will be hard at times, I will often be demanding of you, but there will be lots of fun, joy, and entertainment along the way. The end result is something you would never dream of... I know it can happen to you because I have seen it happen to others many times, but it is a fine line between success and failure. You need to be on the right side of success so that you become my beautiful, glamorous sissy. <br>Click to apply for your interview and assessment now if you are ready to take the next steps towards changing your life.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>"
         }
       ]
     }
