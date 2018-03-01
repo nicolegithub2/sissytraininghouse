@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -94,7 +94,7 @@
                 "showText": true,
                 "text": "Do you daydream about being a sissy? <br>Are you just longing to let that inner sissy out and get rewarded endlessly for your sissy skills?&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">How to become a sissy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a>  "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Becomeasissy\" data-toolbar=\"-mbrBtnMove\">How to become a sissy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a>  "
               },
               {
                 "active": true,
@@ -108,7 +108,7 @@
                 "showText": true,
                 "text": "Are you tired of watching all your idols and friends getting all the attention and money they want? <br>Get out of your mum's basement, quit that boring stifling job, and get on to the path of sissy success.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">How to become a sissy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Becomeasissy\" data-toolbar=\"-mbrBtnMove\">How to become a sissy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"aboutnicole \" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a>"
               },
               {
                 "active": false,
@@ -122,7 +122,7 @@
                 "showText": true,
                 "text": "Click through the site, read the stages you need to progress through, have a look at expert advice, and then when you are sure and ready to create the life you have been wanting... apply for your assessment and interview. You might be moments away from changing your life... why wait another day?",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">How to become a sissy&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Becomeasissy\" data-toolbar=\"-mbrBtnMove\">How to become a sissy&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"aboutnicole \" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a> "
               }
             ],
             "fullScreen": false,
@@ -718,7 +718,7 @@
           "title1": "Stage 5",
           "subtitle1": "High-class sissy escort",
           "caption1": "1. You will continue your training in the Sissy house as above and maintain your personal training sessions as well as attend your classes.<br>2. However, you will now be allowed to offer FS to regulars. This will now be your main focus and job.<br><br>Graduation requirements:<br>a) Getting lots of rewards<br>b) Have £20,000 – donate some of your savings to my animal sanctuary fund<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;</span><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/choices-600x400.jpg",
@@ -734,7 +734,7 @@
           "title2": "Stage 6",
           "subtitle2": "Career choices",
           "caption2": "You have now reached the status of a full-blown sissy escort! We can now discuss your future and what we think is the best direction for you to go.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
@@ -762,7 +762,7 @@
           "title4": "Stage 8",
           "subtitle4": "Success&nbsp;",
           "caption4": "Congratulations. Come back and visit the Sissy house from time to time. Give the girls some tips on how to get their best sissy on, and remember to show gratitude to Mistress Nicole who totally changed your life.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
