@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -59,8 +59,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Welcome to the Sissy Training House",
-          "meta": "Have weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away.<br>No big tribute fee. &nbsp;<br>"
+          "title": "Welcome to the Sissy Training House&nbsp;",
+          "meta": "Have weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away.<br>No big tribute fee. &nbsp;<br>Located in London UK"
         },
         {
           "_tags": [
@@ -217,7 +217,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://sissytraininghouse.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
         }
       ]
     },
@@ -298,7 +298,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12811.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12812.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com/",
@@ -312,7 +312,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://sissytraininghouse.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
         },
         {
           "_tags": [
@@ -651,7 +651,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12811.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12812.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com/",
@@ -665,7 +665,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://sissytraininghouse.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
         },
         {
           "_tags": [
@@ -875,7 +875,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12811.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12812.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com",
@@ -889,7 +889,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://sissytraininghouse.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
         },
         {
           "_styles": {
@@ -1240,7 +1240,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12811.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12812.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com",
@@ -1254,7 +1254,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://sissytraininghouse.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
         }
       ]
     }
