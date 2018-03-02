@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "Becomesissy2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -686,7 +686,7 @@
           "_anchor": "features1-e",
           "_params": {
             "columnsColor": "#eb6b56",
-            "paddingTop": "0",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -875,7 +875,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com",
@@ -1240,7 +1240,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com",
