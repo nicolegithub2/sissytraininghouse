@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "aboutnicole ",
+    "currentPage": "Appynow",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -298,7 +298,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12814.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com/",
@@ -651,7 +651,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12814.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com/",
@@ -875,7 +875,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12814.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1117,6 +1117,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-r",
           "_params": {
             "labelsColor": "#232323",
@@ -1134,7 +1139,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Make donation to Mistress Nicole's island project and then fill in the form below. <br>&nbsp;Stating why you would like to become a sissy and make it clear that you understand that you need to work to maintain a place in the sissy house. Applicants must be over 18.",
+          "subtitle": "Make at least a $50 donation to Mistress Nicole's island project and then fill in the form below. This will then enable you to have a 20 minute skype consulation with Nicole to see if you are suitable for the sissy house.&nbsp;<br>&nbsp;State why you would like to become a sissy and make it clear that you understand that you need to work to maintain a place in the sissy house. Applicants must be over 18.",
           "form": {
             "action": "myslaveisland@protonmail.com",
             "alerts": {
@@ -1162,12 +1167,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_inherit": "menu",
@@ -1240,7 +1240,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x12814.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
