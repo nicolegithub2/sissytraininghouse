@@ -495,6 +495,42 @@ h6,
 #header3-x SMALL {
   color: #f28281;
 }
+#header2-10 .mbr-section-title {
+  color: #000000;
+}
+#header2-10 .mbr-section-text {
+  color: #000000;
+}
+#header2-11 .mbr-section-title {
+  color: #000000;
+}
+#header2-11 .mbr-section-text {
+  color: #000000;
+}
+#header2-12 .mbr-section-title {
+  color: #000000;
+}
+#header2-12 .mbr-section-text {
+  color: #000000;
+}
+#features1-y .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #eb6b56;
+}
+#features1-y .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
+}
+#features1-y .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #f28281;
+}
+#features1-z .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #eb6b56;
+}
+#features1-z .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
+}
+#features1-z .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #f28281;
+}
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
