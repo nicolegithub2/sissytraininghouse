@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -662,6 +662,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.nbpayment.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
@@ -714,6 +727,19 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.nbpayment.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
         }
       ]
     },
@@ -981,7 +1007,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39222.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39227.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -997,7 +1023,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/choices-600x40023.jpg",
+              "src": "@PROJECT_PATH@/assets/images/choices-600x40028.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1013,7 +1039,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x40024.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x40029.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1029,7 +1055,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40025.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40030.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1205,7 +1231,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39222.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39227.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1221,7 +1247,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/choices-600x40023.jpg",
+              "src": "@PROJECT_PATH@/assets/images/choices-600x40028.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1253,7 +1279,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40025.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40030.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1565,7 +1591,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210026.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210031.jpg",
               "link": "",
               "alt": "",
               "title": "",
