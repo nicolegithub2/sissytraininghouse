@@ -213,7 +213,7 @@
           "_anchor": "header3-x",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -1007,7 +1007,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39237.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39242.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1023,7 +1023,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/choices-600x40038.jpg",
+              "src": "@PROJECT_PATH@/assets/images/choices-600x40043.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1039,7 +1039,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x40039.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x40044.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1055,7 +1055,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40040.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40045.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1231,7 +1231,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39237.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x39242.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1247,7 +1247,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/choices-600x40038.jpg",
+              "src": "@PROJECT_PATH@/assets/images/choices-600x40043.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1279,7 +1279,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40040.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x40045.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1591,7 +1591,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210041.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210046.jpg",
               "link": "",
               "alt": "",
               "title": "",
