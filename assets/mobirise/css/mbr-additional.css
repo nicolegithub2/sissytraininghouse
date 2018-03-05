@@ -531,6 +531,9 @@ h6,
 #features1-z .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #f28281;
 }
+#form1-13 .form-control-label {
+  color: #232323;
+}
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
