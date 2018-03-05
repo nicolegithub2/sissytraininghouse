@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "aboutnicole ",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -60,77 +60,7 @@
             "showMeta": true
           },
           "title": "Welcome to the Sissy Training House&nbsp;",
-          "meta": "Have weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away.<br>No big tribute fee. &nbsp;<br>Located in London UK"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#f28281"
-            },
-            "H2": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "autoplay": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1154.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Sissy Training House",
-                "showText": true,
-                "text": "Do you daydream about being a sissy? <br>Are you just longing to let that inner sissy out and get rewarded endlessly for your sissy skills?&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Becomeasissy\" data-toolbar=\"-mbrBtnMove\">How to become a sissy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a>  "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2-2000x1333.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Sissy Training House&nbsp;",
-                "showText": true,
-                "text": "Are you tired of watching all your idols and friends getting all the attention and money they want? <br>Get out of your mum's basement, quit that boring stifling job, and get on to the path of sissy success.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Becomeasissy\" data-toolbar=\"-mbrBtnMove\">How to become a sissy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"aboutnicole \" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1315.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Sissy Training House",
-                "showText": true,
-                "text": "Click through the site, read the stages you need to progress through, have a look at expert advice, and then when you are sure and ready to create the life you have been wanting... apply for your assessment and interview. You might be moments away from changing your life... why wait another day?",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Becomeasissy\" data-toolbar=\"-mbrBtnMove\">How to become a sissy&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"aboutnicole \" data-toolbar=\"-mbrBtnMove\">About your trainer Nicole</a> "
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-4",
-          "articleLayout": false
+          "meta": "Let Nicole transform you from a male to a fabulous female. Nicole is a BDSM Mistress that loves to feminize males into gorgeous females. <br>&nbsp; Sign up to training and get weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away.<br>No big tribute fee. &nbsp;<br>Located in London UK"
         },
         {
           "_inherit": "menu",
@@ -218,6 +148,77 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Becomeasissy\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">The 7 Training Stages</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy\">Stages 1 to 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomesissy2\">Stages 5 to 8</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Appy Now</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-v",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1221.jpg",
+            "bgColor": "#f28281",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/zoRVcXwgHpc",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Get ready to &nbsp;enter the Sissy Training House",
+          "text": "Do you daydream about being a sissy? <br>Are you just longing to let that inner sissy out and get rewarded endlessly for your sissy skills?<br>Are you tired of watching all your idols and friends getting all the attention and money they want? <br>Get out of your mum's basement, quit that boring stifling job, and get on to the path of sissy success.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#f28281"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Discover a new life for youself",
+          "meta": "Click through the site, read the stages you need to progress through, have a look at expert advice, and then when you are sure and ready to create the life you have been wanting... apply for your assessment and interview. You might be moments away from changing your life... why wait another day?"
         }
       ]
     },
@@ -298,7 +299,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com/",
@@ -651,7 +652,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com/",
@@ -875,7 +876,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1240,7 +1241,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
