@@ -488,6 +488,24 @@ h6,
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#features1-y .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #eb6b56;
+}
+#features1-y .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
+}
+#features1-y .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #f28281;
+}
+#features1-z .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #eb6b56;
+}
+#features1-z .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
+}
+#features1-z .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #f28281;
+}
 #header3-x .mbr-section-title,
 #header3-x .mbr-section-subtitle {
   text-align: center;
@@ -512,24 +530,6 @@ h6,
 }
 #header2-12 .mbr-section-text {
   color: #000000;
-}
-#features1-y .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #eb6b56;
-}
-#features1-y .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #000000;
-}
-#features1-y .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #f28281;
-}
-#features1-z .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #eb6b56;
-}
-#features1-z .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #000000;
-}
-#features1-z .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #f28281;
 }
 #form1-13 .form-control-label {
   color: #232323;
