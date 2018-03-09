@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Appynow",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -702,7 +702,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Have lots of questions? Make at least a $50 donation to Mistress Nicole's island project and then fill in the form below. This will then enable you to have a 20 minute skype consulation with Nicole to see if you are suitable for the sissy house.&nbsp;<br>&nbsp;State why you would like to become a sissy and make it clear that you understand that you need to work to maintain a place in the sissy house. Applicants must be over 18.<br>Email: myslaveisland@protonmail.ch",
           "form": {
-            "action": "myslaveisland@protonmail.com",
+            "action": "myslaveisland@protonmail.ch",
             "alerts": {
               "success": "Thank you! Please remembe to check your spam folder for a reply in the next 24 hours if you don't see an email in your main inbox. "
             },
@@ -1009,7 +1009,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x3925.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x3920.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1025,7 +1025,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/choices-600x4006.jpg",
+              "src": "@PROJECT_PATH@/assets/images/choices-600x4001.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1041,7 +1041,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x4007.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x4002.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1057,7 +1057,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x4008.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x4003.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1233,7 +1233,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x3925.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x3920.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1249,7 +1249,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/choices-600x4006.jpg",
+              "src": "@PROJECT_PATH@/assets/images/choices-600x4001.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1281,7 +1281,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Appy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x4008.png",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-1-600x4003.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1593,7 +1593,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21009.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21004.jpg",
               "link": "",
               "alt": "",
               "title": "",
