@@ -257,7 +257,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/large-600x400-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/53106a-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -273,7 +273,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/53106a-600x450-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x392.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -289,7 +289,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sissymodel01-600x400-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1464,7 +1464,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
               "link": "",
               "alt": "",
               "title": "",
