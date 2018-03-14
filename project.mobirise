@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "index.html",
+    "currentPage": "Becomeasissy",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -819,7 +819,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#eb6b56"
+              "background-color": "#f28281"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "color": "#000000"
@@ -830,7 +830,7 @@
           },
           "_anchor": "features1-19",
           "_params": {
-            "columnsColor": "#eb6b56",
+            "columnsColor": "#f28281",
             "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -886,7 +886,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/night-10-2000x200012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x200014.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1438,7 +1438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210015.jpg",
               "link": "",
               "alt": "",
               "title": "",
