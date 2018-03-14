@@ -99,10 +99,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/night-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/night-3-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-10-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -119,8 +119,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/night-5-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/night-5-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-9-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -152,7 +152,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/night-8-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/night-8-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -1438,7 +1438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
               "link": "",
               "alt": "",
               "title": "",
