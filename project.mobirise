@@ -864,7 +864,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<br>Stage 1",
+          "title1": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 1</span><br>",
           "subtitle1": "Sissy wannabe",
           "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">1. Find a part-time sissy job.&nbsp;</span><br>Save up $2000 while in the sissy job so that you can donate it towards your room deposit. <br><span style=\"font-size: 1rem; line-height: 1.5;\">2.You will get weekly assessments and assignments while you save up.&nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">3. &nbsp; I will speak to you once a week to discuss your progression and make sure you are meeting your goals.&nbsp;</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Or</span><br><br>1.&nbsp;Donate $2000 towards your room deposit and make a generous donation to my island fund. &nbsp;<br>2. You will have your remote sissy assessment within 24 hours, given instructions for preparation, and a move in date for the sissy house. <br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
@@ -880,13 +880,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Stage 2",
+          "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 2</span><br>",
           "subtitle2": "Relocate to the house",
           "caption2": "1. You will live in the Sissy house . A Master or Mistress will supervise and monitor your behaviour in the house. <br>2. You will begin your sissy career training. You will need to earn enough to cover your $1000 a week rent and your own self care.&nbsp;<br>3. &nbsp;A website and a social media page will be created for you. A bodyguard/driver will be at the location whenever you or another sissy is working a risky job.&nbsp;<br>4. You will now have a weekly one-on-one training session with me. <br><span style=\"font-size: 1rem; line-height: 1.5;\">5. You will also have a weekly session with: a personal fitness trainer, a nutritionist, a beautician, a self-defence trainer, and a photographer. Other possible classes will be pole dancing and yoga</span><br>6. You will be required to get a full health check and a consultation with a surgeon.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/night-10-2000x20004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x20006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1438,7 +1438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21007.jpg",
               "link": "",
               "alt": "",
               "title": "",
