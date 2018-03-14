@@ -586,22 +586,13 @@ h6,
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#features1-9 .striped .mbr-cards-col:nth-child(2n+1) {
+#features1-16 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #eb6b56;
 }
-#features1-9 .mbr-cards-col:nth-child(odd) .card-subtitle {
+#features1-16 .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #000000;
 }
-#features1-9 .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #f28281;
-}
-#features1-a .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #eb6b56;
-}
-#features1-a .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #000000;
-}
-#features1-a .mbr-cards-col:nth-child(even) .card-subtitle {
+#features1-16 .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #f28281;
 }
 #ext_menu-c .hide-buttons .nav-btn {
