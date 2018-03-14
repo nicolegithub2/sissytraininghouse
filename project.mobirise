@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -63,6 +63,109 @@
           },
           "title": "Welcome to the Sissy Training House&nbsp;",
           "meta": "Let Nicole transform you from a male to a fabulous female. Nicole is a BDSM Mistress that loves to feminize males into gorgeous females. <br>&nbsp; Sign up to training and get weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away.<br>No big tribute fee. &nbsp;<br>Located in London UK"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-4-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-5-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-6-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-6-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/night-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/night-8-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/night-8-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#f28281",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-17",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_inherit": "menu",
@@ -158,7 +261,7 @@
           "_name": "header2",
           "_anchor": "header2-v",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "62",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1221.jpg",
@@ -241,7 +344,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/about-webcam-modeling-600x285.png",
+              "src": "@PROJECT_PATH@/assets/images/night-4-2000x2000-800x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -273,7 +376,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aprostitute-600x392.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-3-2000x2000-800x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1335,7 +1438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
               "link": "",
               "alt": "",
               "title": "",
