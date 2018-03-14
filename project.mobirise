@@ -197,7 +197,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#eb6b56"
+              "background-color": "#f28281"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "color": "#000000"
@@ -208,7 +208,7 @@
           },
           "_anchor": "features1-y",
           "_params": {
-            "columnsColor": "#eb6b56",
+            "columnsColor": "#f28281",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -258,7 +258,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Stage 2",
+          "title2": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 2</span><br>",
           "subtitle2": "Relocate to the house",
           "caption2": "1. You will live in the Sissy house . A Master or Mistress will supervise and monitor your behaviour in the house. <br>2. You will begin your sissy career training. You will need to earn enough to cover your $1000 a week rent and your own self care.&nbsp;<br>3. &nbsp;A website and a social media page will be created for you. A bodyguard/driver will be at the location whenever you or another sissy is working a risky job.&nbsp;<br>4. You will now have a weekly one-on-one training session with me. <br><span style=\"font-size: 1rem; line-height: 1.5;\">5. You will also have a weekly session with: a personal fitness trainer, a nutritionist, a beautician, a self-defence trainer, and a photographer. Other possible classes will be pole dancing and yoga</span><br>6. You will be required to get a full health check and a consultation with a surgeon.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
@@ -290,7 +290,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Stage 4",
+          "title4": "<br>Stage 4",
           "subtitle4": "Marriage or BDSM island",
           "caption4": "You will now be totally hot and desired by so many people. This will be the perfect time for me to introduce you to some of my friends that love/worship/adore sissies. If they like you then we will begin arrangements for you to be married off.&nbsp;<br><br>Or&nbsp;<br><br>You will graduate to Sissy rank silver, move to my island where you can choose to retire and relax or assist with daily events that are taking place.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
@@ -886,7 +886,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/night-10-2000x200010.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x200012.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1438,7 +1438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210011.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210013.jpg",
               "link": "",
               "alt": "",
               "title": "",
