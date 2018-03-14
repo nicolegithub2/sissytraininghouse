@@ -796,7 +796,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-mg-8653-large-1400x2100.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://sissytraininghouse.com/",
@@ -886,7 +886,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/night-10-2000x20006.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x20008.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1438,7 +1438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21007.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21009.jpg",
               "link": "",
               "alt": "",
               "title": "",
