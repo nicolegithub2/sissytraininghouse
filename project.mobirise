@@ -62,7 +62,7 @@
             "showMeta": true
           },
           "title": "Welcome to the Sissy Training House&nbsp;",
-          "meta": "Let Nicole transform you from a male to a fabulous female. Nicole is a BDSM Mistress that loves to feminize males into gorgeous females. <br>&nbsp; Sign up to training and get weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away.<br>No big tribute fee. &nbsp;<br>Located in London UK"
+          "meta": "Hi, I'm Nicole. Let me transform you from a male to a fabulous female. I'm a BDSM Mistress that loves to feminize males into gorgeous females. <br>&nbsp; Sign up to training and get weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away or save up to join my future BDSM island.<br>No big tribute fee. &nbsp;<br>Located in London UK"
         },
         {
           "_inherit": "gallery1",
@@ -168,6 +168,29 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#f28281"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Discover a new life for youself",
+          "meta": "Click through the site, read the stages you need to progress through, have a look at expert advice, and then when you are sure and ready to create the life you have been wanting... apply for your assessment and interview. You might be moments away from changing your life... why wait another day?"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -221,7 +244,7 @@
           },
           "title1": "<br>Stage 1",
           "subtitle1": "Sissy wannabe",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">1. Find a part-time sissy job.&nbsp;</span><br>Save up $2000 while in the sissy job so that you can donate it towards your room deposit. <br><span style=\"font-size: 1rem; line-height: 1.5;\">2.You will get weekly assessments and assignments while you save up.&nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">3. &nbsp; I will speak to you once a week to discuss your progression and make sure you are meeting your goals.</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Or</span><br><br>1.&nbsp;Donate $2000 towards your room deposit and make a generous donation to my island fund. &nbsp;<br>2. You will have your remote sissy assessment within 24 hours, given instructions for preparation, and a move in date for the sissy house. <br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">1. Find a part-time sissy job.&nbsp;</span><br>Save up $2000 while in the sissy job so that you can donate it towards your room deposit. <br><span style=\"font-size: 1rem; line-height: 1.5;\">2.You will get weekly assessments and assignments while you save up.&nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">3. &nbsp; I will speak to you once a week to discuss your progression and make sure you are meeting your goals.&nbsp;</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Or</span><br><br>1.&nbsp;Donate $2000 towards your room deposit and make a generous donation to my island fund. &nbsp;<br>2. You will have your remote sissy assessment within 24 hours, given instructions for preparation, and a move in date for the sissy house. <br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media2": {
             "image": {
@@ -237,7 +260,7 @@
           },
           "title2": "Stage 2",
           "subtitle2": "Relocate to the house",
-          "caption2": "1. You will live in the Sissy house . A Master or Mistress will supervise and monitor your behaviour in the house. <br>2. You will begin your sissy career training. <br>3. &nbsp;A website and a social media page will be created for you. A bodyguard/driver will be at the location whenever a sissy is working a risky job.&nbsp;<br>4. You will now have a weekly one-on-one training session with me. <br><span style=\"font-size: 1rem; line-height: 1.5;\">5. You will also have a weekly session with: a personal fitness trainer, a nutritionist, a beautician, a self-defence trainer, and a photographer. Other possible classes will be pole dancing and yoga</span><br>6. You will be required to get a full health check and a consultation with a surgeon.<br>",
+          "caption2": "1. You will live in the Sissy house . A Master or Mistress will supervise and monitor your behaviour in the house. <br>2. You will begin your sissy career training. You will need to earn enough to cover your $1000 a week rent and your own self care.&nbsp;<br>3. &nbsp;A website and a social media page will be created for you. A bodyguard/driver will be at the location whenever you or another sissy is working a risky job.&nbsp;<br>4. You will now have a weekly one-on-one training session with me. <br><span style=\"font-size: 1rem; line-height: 1.5;\">5. You will also have a weekly session with: a personal fitness trainer, a nutritionist, a beautician, a self-defence trainer, and a photographer. Other possible classes will be pole dancing and yoga</span><br>6. You will be required to get a full health check and a consultation with a surgeon.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
@@ -430,29 +453,6 @@
           "title": "Get ready to &nbsp;enter the Sissy Training House",
           "text": "Do you daydream about being a sissy? <br>Are you just longing to let that inner sissy out and get rewarded endlessly for your sissy skills?<br>Are you tired of watching all your idols and friends getting all the attention and money they want? <br>Get out of your mum's basement, quit that boring stifling job, and get on to the path of sissy success.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apply Now</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#f28281"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Discover a new life for youself",
-          "meta": "Click through the site, read the stages you need to progress through, have a look at expert advice, and then when you are sure and ready to create the life you have been wanting... apply for your assessment and interview. You might be moments away from changing your life... why wait another day?"
         },
         {
           "_tags": [
@@ -1438,7 +1438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21003.jpg",
               "link": "",
               "alt": "",
               "title": "",

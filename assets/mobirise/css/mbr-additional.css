@@ -427,6 +427,13 @@ h6,
 #header3-6 H3 {
   color: #f28281;
 }
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-x SMALL {
+  color: #f28281;
+}
 #features1-y .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #eb6b56;
 }
@@ -496,13 +503,6 @@ h6,
 #ext_menu-7 .link[aria-expanded="true"],
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header3-x .mbr-section-title,
-#header3-x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-x SMALL {
-  color: #f28281;
 }
 #header2-10 .mbr-section-title {
   color: #000000;
