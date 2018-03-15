@@ -548,10 +548,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-mg-8653-large-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.nicolebdsm.com/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -906,10 +906,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-mg-8653-large-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://sissytraininghouse.com/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1197,10 +1197,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x128.png",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://sissytraininghouse.com/",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1421,12 +1421,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x128.png",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1615,7 +1614,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21009.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210010.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1786,7 +1785,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-85x128.png",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
