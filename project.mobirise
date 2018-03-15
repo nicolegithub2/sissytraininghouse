@@ -59,8 +59,8 @@
           "_anchor": "header3-6",
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "title": "Welcome to the Sissy Training House&nbsp;"
@@ -73,7 +73,7 @@
           "_name": "gallery3",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1612,7 +1612,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21005.jpg",
               "link": "",
               "alt": "",
               "title": "",
