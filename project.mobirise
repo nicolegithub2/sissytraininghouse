@@ -1450,8 +1450,8 @@
           "_anchor": "header3-i",
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "5",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "About your trainer Nicole",
@@ -1477,7 +1477,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "47",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
@@ -1615,7 +1615,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21008.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21009.jpg",
               "link": "",
               "alt": "",
               "title": "",
