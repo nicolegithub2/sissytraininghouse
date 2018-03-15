@@ -1,5 +1,5 @@
 (function ($) {
-    
+
     var isBuilder = $('html').hasClass('is-builder');
     if (!isBuilder) {
 
@@ -34,17 +34,20 @@
                         height: '100%',
                         loop: true
                     };
-                   
+
                     var player = new Vimeo.Player('mbr-video-' + i, options);
                     player.playVideo = Vimeo.play;
                 } else {
-               
+
                 var player = new YT.Player('mbr-video-' + i, {
                     height: '100%',
                     width: '100%',
                     videoId: getVideoId($(this).attr('data-video-url')),
                     events: {
-                        'onReady': onPlayerReady,
+                        'onReady': onPlayerReady
+                    },
+                    playerVars: {
+                        rel: 0
                     }
                 })}
                 players.push(player);

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 46,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -54,15 +54,15 @@
             "Theme"
           ],
           "_name": "header3",
+          "meta": "Hi, I'm Nicole. Let me transform you from a male to a fabulous female. I'm a BDSM Mistress that loves to feminize males into gorgeous females. <br>&nbsp; Sign up to training and get weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away or save up to join my future BDSM island.<br>No big tribute fee. &nbsp;<br>Located in London UK",
           "_anchor": "header3-6",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "Welcome to the Sissy Training House&nbsp;",
-          "meta": "Hi, I'm Nicole. Let me transform you from a male to a fabulous female. I'm a BDSM Mistress that loves to feminize males into gorgeous females. <br>&nbsp; Sign up to training and get weekly access to a Pro-Domme, a Male mentor, and a community that will celebrate all your sissy achievements. Fine dinning, luxury clothes, men begging at your feet, endless travel and socializing with the top elite. Start making money towards your dream sissy lifestyle right away or save up to join my future BDSM island.<br>No big tribute fee. &nbsp;<br>Located in London UK"
+          "title": "Welcome to the Sissy Training House&nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -71,8 +71,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#f28281",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -154,14 +161,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#f28281",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-17",
           "articleLayout": false,
@@ -180,15 +180,15 @@
             "Theme"
           ],
           "_name": "header3",
+          "meta": "Click through the site, read the stages you need to progress through, have a look at expert advice, and then when you are sure and ready to create the life you have been wanting... apply for your assessment and interview. You might be moments away from changing your life... why wait another day?",
           "_anchor": "header3-x",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "Discover a new life for youself",
-          "meta": "Click through the site, read the stages you need to progress through, have a look at expert advice, and then when you are sure and ready to create the life you have been wanting... apply for your assessment and interview. You might be moments away from changing your life... why wait another day?"
+          "title": "Discover a new life for youself"
         },
         {
           "_tags": [
@@ -197,7 +197,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#f28281"
+              "background-color": "#2e2e2e"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "color": "#000000"
@@ -206,29 +206,41 @@
               "color": "#f28281"
             }
           },
+          "title1": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 1</span><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
+          "title2": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 2</span><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
+          "title3": "Stage 3",
+          "button3": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
+          "title4": "<br>Stage 4",
+          "button4": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
+          "title5": "Trendy Website Blocks",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title6": "Host Anywhere",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_anchor": "features1-y",
           "_params": {
-            "columnsColor": "#f28281",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -242,10 +254,8 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 1</span><br>",
           "subtitle1": "Sissy wannabe",
           "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">1. Find a part-time sissy job.&nbsp;</span><br>Save up $2000 while in the sissy job so that you can donate it towards your room deposit. <br><span style=\"font-size: 1rem; line-height: 1.5;\">2.You will get weekly assessments and assignments while you save up.&nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">3. &nbsp; I will speak to you once a week to discuss your progression and make sure you are meeting your goals.&nbsp;</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Or</span><br><br>1.&nbsp;Donate $2000 towards your room deposit and make a generous donation to my island fund. &nbsp;<br>2. You will have your remote sissy assessment within 24 hours, given instructions for preparation, and a move in date for the sissy house. <br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/53106a-600x450.jpg",
@@ -258,10 +268,8 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 2</span><br>",
           "subtitle2": "Relocate to the house",
           "caption2": "1. You will live in the Sissy house . A Master or Mistress will supervise and monitor your behaviour in the house. <br>2. You will begin your sissy career training. You will need to earn enough to cover your $1000 a week rent and your own self care.&nbsp;<br>3. &nbsp;A website and a social media page will be created for you. A bodyguard/driver will be at the location whenever you or another sissy is working a risky job.&nbsp;<br>4. You will now have a weekly one-on-one training session with me. <br><span style=\"font-size: 1rem; line-height: 1.5;\">5. You will also have a weekly session with: a personal fitness trainer, a nutritionist, a beautician, a self-defence trainer, and a photographer. Other possible classes will be pole dancing and yoga</span><br>6. You will be required to get a full health check and a consultation with a surgeon.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000.jpg",
@@ -274,10 +282,8 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Stage 3",
           "subtitle3": "Sissy rank bronze",
           "caption3": "1. You have now spent months in the house transforming yourself. You have shown good behaviour, are successful in your sissy career, have become a mentor to the other girls in the house, and have made a generous donation to the island fund.&nbsp;<br><br>2. You now graduate to Sissy rank bronze. You are now a leader in the house and take on more responsibilities.&nbsp;<br>3. You will see me twice a week for guidance and consultation.&nbsp;<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x400.png",
@@ -290,10 +296,8 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "<br>Stage 4",
           "subtitle4": "Marriage or BDSM island",
           "caption4": "You will now be totally hot and desired by so many people. This will be the perfect time for me to introduce you to some of my friends that love/worship/adore sissies. If they like you then we will begin arrangements for you to be married off.&nbsp;<br><br>Or&nbsp;<br><br>You will graduate to Sissy rank silver, move to my island where you can choose to retire and relax or assist with daily events that are taking place.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -302,10 +306,8 @@
               "active": true
             }
           },
-          "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -314,10 +316,8 @@
               "active": true
             }
           },
-          "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider."
         },
         {
           "_inherit": "menu",
@@ -370,22 +370,31 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#c0a375!important"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-7",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -404,34 +413,13 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy\" aria-expanded=\"false\">The 8 Training Stages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply Now</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy\" aria-expanded=\"false\">The 4 Training Stages&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply Now</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-v",
-          "_params": {
-            "imageSize": "62",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1221.jpg",
-            "bgColor": "#f28281",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
           "media": {
             "image": {
               "width": 1400,
@@ -450,6 +438,27 @@
               "size": 250
             }
           },
+          "_anchor": "header2-v",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1221.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
           "title": "Get ready to &nbsp;enter the Sissy Training House",
           "text": "Do you daydream about being a sissy? <br>Are you just longing to let that inner sissy out and get rewarded endlessly for your sissy skills?<br>Are you tired of watching all your idols and friends getting all the attention and money they want? <br>Get out of your mum's basement, quit that boring stifling job, and get on to the path of sissy success.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apply Now</a>"
@@ -466,27 +475,6 @@
             ".mbr-section-text": {
               "color": "#000000"
             }
-          },
-          "_anchor": "header2-10",
-          "_params": {
-            "imageSize": "40",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
           },
           "media": {
             "image": {
@@ -510,6 +498,27 @@
               "size": 250
             }
           },
+          "_anchor": "header2-10",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
           "title": "About your trainer Nicole&nbsp;",
           "text": "I am a young dominatrix that seemed to be born dominant. I refused to be told how, what, and when to think about societies norms and values. I love to challenge what living in this world really is, and it does sadden me when I see people stuck and trapped in a life they are not happy living. I have many dreams and hopes in this world but my main one is to create my own little world where animals and humans are free to exist without fear or harm of abuse. This includes people that want to change their gender, transgender people, and kinky little sissies! <br>It is great being a Pro-Domme, it gives me the chance to meet so many people from alternative ways of thinking, kinks, and even worlds! It is a wonderful experience to encourage, watch, and demand a person's true self come out in front of you. Sometimes the person can only be themselves for those one or two hours they are with me... This sometimes bugs me, since I want to see and help the subs that come to see me to be brave, take a chance, and embrace their inner yearnings. <br>But I guess you are wondering why such an interest in sissies.... Well, ain't they beautiful human beings?... And gosh they sure can be kinky! My interest in sissies and my love for them started many years ago.&nbsp;.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Apply Now</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.nicolebdsm.com/\" data-toolbar=\"-mbrBtnMove\">Nicole's BDSM Website</a>"
@@ -526,27 +535,6 @@
             ".mbr-section-text": {
               "color": "#000000"
             }
-          },
-          "_anchor": "header2-11",
-          "_params": {
-            "imageSize": "40",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
           },
           "media": {
             "image": {
@@ -570,6 +558,27 @@
               "size": 250
             }
           },
+          "_anchor": "header2-11",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
           "title": "Why an interest in sissies&nbsp;",
           "text": "I met the most beautiful transgender woman when I was young. She lived in a penthouse, with a fancy car, clothes, and even young men surrounding her. She drew everyone's attention when she walked into the room. Everyone wanted to be around her and try to get a moment of her time. There was also this amazing aura and elegance to her. It was only later I got to find out she used to be miserable, had endless health problems, was stuck in a low paying job, and felt trapped in a man's body. However, she managed to change her circumstances and herself through part luck but mostly through hard work and doing an alternative job to what others do. A whole new world opened up to her once she took that step into her new lifestyle, and the world changed around her. This is not to say that it was all easy and she never faced difficulties. I later found out that she had a kind of guardian that helped and protected her while she transitioned into who she is now. She doesn't regret a thing and always smiles fondly about her guardian. I have had sessions with lots of subs that want to be full-time sissies, that go back to their vanilla life and then long to be that sissy again the next time we meet. It makes me think about how much their world and their life could change if they too had a guardian to help and support them into their transition... so I am going to be that guardian, protector, advisor, and trainer to any wannabe sissy or pre- transgender woman that is out there.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>"
@@ -586,27 +595,6 @@
             ".mbr-section-text": {
               "color": "#000000"
             }
-          },
-          "_anchor": "header2-12",
-          "_params": {
-            "imageSize": "40",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
           },
           "media": {
             "image": {
@@ -629,6 +617,27 @@
               "link": "",
               "size": 250
             }
+          },
+          "_anchor": "header2-12",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "title": "Your chance is now&nbsp;",
           "text": "It takes hard work from the both of us, I will invest my time, skills, connections and care into you. For this, you should give your best in this opportunity. It will be hard at times, I will often be demanding of you, but there will be lots of fun, joy, and entertainment along the way. The end result is something you would never dream of... I know it can happen to you because I have seen it happen to others many times, but it is a fine line between success and failure. You need to be on the right side of success so that you become my beautiful, glamorous sissy. <br>Click to apply for your interview and assessment now if you are ready to take the next steps towards changing your life.&nbsp;<br>",
@@ -659,22 +668,22 @@
           },
           "_anchor": "form1-13",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
           "subtitle": "Have lots of questions? Make at least a $50 donation to Mistress Nicole's island project and then fill in the form below. This will then enable you to have a 20 minute skype consulation with Nicole to see if you are suitable for the sissy house.&nbsp;<br>&nbsp;State why you would like to become a sissy and make it clear that you understand that you need to work to maintain a place in the sissy house. Applicants must be over 18.<br>Email: myslaveisland@protonmail.ch",
+          "title": "CONTACT FORM",
           "form": {
             "action": "myslaveisland@protonmail.ch",
             "alerts": {
@@ -781,17 +790,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-8",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -810,7 +819,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy\" aria-expanded=\"false\">The 8 Training Stages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply Now</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy\" aria-expanded=\"false\">The 4 Training Stages&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply Now</a></li>"
         },
         {
           "_tags": [
@@ -830,27 +839,27 @@
           },
           "_anchor": "features1-19",
           "_params": {
-            "columnsColor": "#f28281",
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -886,7 +895,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/night-10-2000x200014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x20000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1005,17 +1014,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-c",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1054,27 +1063,27 @@
           },
           "_anchor": "features1-e",
           "_params": {
-            "columnsColor": "#eb6b56",
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -1229,17 +1238,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1272,10 +1281,10 @@
           "_name": "header3",
           "_anchor": "header3-i",
           "_params": {
-            "paddingTop": "5",
+            "showMeta": true,
+            "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "About your trainer Nicole",
           "meta": "Who am I, and why am I giving you this one in a lifetime chance to be a fabulous success story that makes all your friends jealous? "
@@ -1295,24 +1304,24 @@
           },
           "_anchor": "header2-n",
           "_params": {
-            "imageSize": "40",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -1355,24 +1364,24 @@
           },
           "_anchor": "header2-o",
           "_params": {
-            "imageSize": "40",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -1415,30 +1424,30 @@
           },
           "_anchor": "header2-p",
           "_params": {
-            "imageSize": "40",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210015.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1493,19 +1502,19 @@
           },
           "_anchor": "form1-r",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
           "subtitle": "Have lots of questions? Make at least a $50 donation to Mistress Nicole's island project and then fill in the form below. This will then enable you to have a 20 minute skype consulation with Nicole to see if you are suitable for the sissy house. <br> State why you would like to become a sissy and make it clear that you understand that you need to work to maintain a place in the sissy house. Applicants must be over 18.<br>Email: myslaveisland@protonmail.ch<br>",
@@ -1594,17 +1603,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-q",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
