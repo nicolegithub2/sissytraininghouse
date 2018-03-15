@@ -936,9 +936,6 @@ h6,
 #header2-p .mbr-section-text {
   color: #000000;
 }
-#form1-r .form-control-label {
-  color: #232323;
-}
 #ext_menu-q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -999,4 +996,7 @@ h6,
 #ext_menu-q .link[aria-expanded="true"],
 #ext_menu-q .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#form1-1e .form-control-label {
+  color: #232323;
 }
