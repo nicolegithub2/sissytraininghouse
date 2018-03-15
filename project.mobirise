@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Appynow",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -62,7 +62,7 @@
           "_anchor": "header3-6",
           "_params": {
             "showMeta": true,
-            "paddingTop": "2",
+            "paddingTop": "5",
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
@@ -1390,7 +1390,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210015.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
               "link": "",
               "alt": "",
               "title": "",
