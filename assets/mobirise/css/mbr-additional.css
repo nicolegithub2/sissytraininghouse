@@ -856,14 +856,8 @@ h6,
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#features1-19 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #f28281;
-}
-#features1-19 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #000000;
-}
-#features1-19 .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #f28281;
+#extFeatures13-1b .etl-icon {
+  color: #666666;
 }
 #ext_menu-c .hide-buttons .nav-btn {
   display: none !important;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "index.html",
+    "currentPage": "Becomeasissy",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,10 +19,11 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 48,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -822,133 +823,200 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy\" aria-expanded=\"false\">The 4 Training Stages&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://sissytraininghouse.com/aboutnicole%20.html\">Who is Mistress Nicole</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply Now</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#f28281"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#f28281"
-            }
-          },
-          "_anchor": "features1-19",
           "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true,
+            "iconsColor": "#666666",
+            "blocks": "4",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f28281",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
+          "mainTitle": "The 4 Stages of The Sissy Training House",
+          "bottomTitle": "Sissified",
+          "mainSubtitle": "Training stages",
+          "title1": "1. Sissy wannabe",
+          "title2": "2. Relocate to the house",
+          "title3": "3. Sissy leader",
+          "title4": "4. Marriage or BDSM island",
+          "title5": "5. Awesome Reports",
+          "title6": "6. Multi Homepages",
+          "title7": "7. Responsive Design",
+          "title8": "8. Smart Watch",
+          "title9": "9. Design out of the box",
+          "title10": "10. Awesome Reports",
+          "title11": "11. Design out of the box",
+          "title12": "12. Awesome Reports",
+          "date1": "Stage 1",
+          "date2": "Stage 2",
+          "date3": "Stage 3",
+          "date4": "Stage 4",
+          "date5": "5 May 2016",
+          "date6": "6 June 2016",
+          "date7": "7 July 2016",
+          "date8": "8 August 2016",
+          "date9": "9 September 2016",
+          "date10": "10 October 2016",
+          "date11": "11 November 2016",
+          "date12": "12 December 2016",
+          "text1": "1. Find a part-time sissy job. \n<br>Save up $2000 while in the sissy job so that you can donate it towards your room deposit. \n<br>2.You will get weekly assessments and assignments while you save up. \n<br>3. I will speak to you once a week to discuss your progression and make sure you are meeting your goals. \n<br>\n<br>Or \n<br>\n<br>1. Donate $2000 towards your room deposit and make a generous donation to my island fund. \n<br>2. You will have your remote sissy assessment within 24 hours, given instructions for preparation, and a move in date for the sissy house.",
+          "text2": "1. You will live in the Sissy house . A Master or Mistress will supervise and monitor your behaviour in the house. \n<br>2. You will begin your sissy career training. You will need to earn enough to cover your $1000 a week rent and your own self care. \n<br>3. A website and a social media page will be created for you. A bodyguard/driver will be at the location whenever you or another sissy is working a risky job. \n<br>4. You will now have a weekly one-on-one training session with me. \n<br>5. You will also have a weekly session with: a personal fitness trainer, a nutritionist, a beautician, a self-defence trainer, and a photographer. Other possible classes will be pole dancing and yoga \n<br>6. You will be required to get a full health check and a consultation with a surgeon.",
+          "text3": "1. You have now spent months in the house transforming yourself. You have shown good behaviour, are successful in your sissy career, have become a mentor to the other girls in the house, and have made a generous donation to the island fund. \n<br>\n<br>2. You now graduate to Sissy rank bronze. You are now a leader in the house and take on more responsibilities. \n<br>3. You will see me twice a week for guidance and consultation.&nbsp;",
+          "text4": "You will now be totally hot and desired by so many people. This will be the perfect time for me to introduce you to some of my friends that love/worship/adore sissies. If they like you then we will begin arrangements for you to be married off. \n<br>\n<br>Or \n<br>\n<br>You will graduate to Sissy rank silver, move to my island where you can choose to retire and relax or assist with daily events that are taking place.&nbsp;",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/night-4-2000x2000-800x800-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "size": 0,
+              "color": "#666666"
             }
           },
-          "title1": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 1</span><br>",
-          "subtitle1": "Sissy wannabe",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">1. Find a part-time sissy job.&nbsp;</span><br>Save up $2000 while in the sissy job so that you can donate it towards your room deposit. <br><span style=\"font-size: 1rem; line-height: 1.5;\">2.You will get weekly assessments and assignments while you save up.&nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">3. &nbsp; I will speak to you once a week to discuss your progression and make sure you are meeting your goals.&nbsp;</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Or</span><br><br>1.&nbsp;Donate $2000 towards your room deposit and make a generous donation to my island fund. &nbsp;<br>2. You will have your remote sissy assessment within 24 hours, given instructions for preparation, and a move in date for the sissy house. <br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/53106a-600x450-5.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "size": 0,
+              "color": "#666666"
             }
           },
-          "title2": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Stage 2</span><br>",
-          "subtitle2": "Relocate to the house",
-          "caption2": "1. You will live in the Sissy house . A Master or Mistress will supervise and monitor your behaviour in the house. <br>2. You will begin your sissy career training. You will need to earn enough to cover your $1000 a week rent and your own self care.&nbsp;<br>3. &nbsp;A website and a social media page will be created for you. A bodyguard/driver will be at the location whenever you or another sissy is working a risky job.&nbsp;<br>4. You will now have a weekly one-on-one training session with me. <br><span style=\"font-size: 1rem; line-height: 1.5;\">5. You will also have a weekly session with: a personal fitness trainer, a nutritionist, a beautician, a self-defence trainer, and a photographer. Other possible classes will be pole dancing and yoga</span><br>6. You will be required to get a full health check and a consultation with a surgeon.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/night-10-2000x20000.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "size": 0,
+              "color": "#666666"
             }
           },
-          "title3": "Stage 3",
-          "subtitle3": "Sissy rank bronze",
-          "caption3": "1. You have now spent months in the house transforming yourself. You have shown good behaviour, are successful in your sissy career, have become a mentor to the other girls in the house, and have made a generous donation to the island fund.&nbsp;<br><br>2. You now graduate to Sissy rank bronze. You are now a leader in the house and take on more responsibilities.&nbsp;<br>3. You will see me twice a week for guidance and consultation.&nbsp;<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-600x400-3.png",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
             }
           },
-          "title4": "Stage 4",
-          "subtitle4": "Marriage or BDSM island",
-          "caption4": "You will now be totally hot and desired by so many people. This will be the perfect time for me to introduce you to some of my friends that love/worship/adore sissies. If they like you then we will begin arrangements for you to be married off.&nbsp;<br><br>Or&nbsp;<br><br>You will graduate to Sissy rank silver, move to my island where you can choose to retire and relax or assist with daily events that are taking place.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"Appynow\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Apply Now</a>",
           "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
             }
           },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_anchor": "extFeatures13-1b",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            }
+          }
         }
       ]
     },
@@ -1447,7 +1515,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21002.jpg",
               "link": "",
               "alt": "",
               "title": "",
