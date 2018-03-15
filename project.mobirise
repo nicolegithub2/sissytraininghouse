@@ -1390,7 +1390,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210014.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210015.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1431,7 +1431,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
         },
         {
           "_inherit": "menu",
