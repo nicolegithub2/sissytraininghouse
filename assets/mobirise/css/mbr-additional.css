@@ -692,14 +692,8 @@ h6,
 #header3-x SMALL {
   color: #f28281;
 }
-#features1-y .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#features1-y .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #000000;
-}
-#features1-y .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #f28281;
+#extFeatures13-1c .etl-icon {
+  color: #666666;
 }
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
