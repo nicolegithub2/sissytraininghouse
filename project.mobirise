@@ -825,7 +825,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.nbpayment.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
         }
       ]
     },
