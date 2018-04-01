@@ -23,13 +23,21 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 54,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "mcShopcart": {
       "email": "nbpayment123@gmail.com"
-    }
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://sissytraininghouse.com/",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-116569207-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-116569207-1');\r\n</script>\r\n",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -755,77 +763,49 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Whatsapp</a> "
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
           "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-13",
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "subtitle": "Have lots of questions and want to apply to join the house? Make at least a $50 donation to Mistress Nicole's island project and then fill in the form below. This will then enable you to have a 20 minute skype consulation with me to see if you are suitable for the sissy house.&nbsp;<br>&nbsp;State why you would like to become a sissy and make it clear that you understand that you need to work to maintain a place in the sissy house. Applicants must be over 18.<br>Email: myslaveisland@protonmail.ch",
-          "title": "CONTACT FORM",
-          "form": {
-            "action": "myslaveisland@protonmail.ch",
-            "alerts": {
-              "success": "Thank you! Please remembe to check your spam folder for a reply in the next 24 hours if you don't see an email in your main inbox. "
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
+            "SMALL": {
+              "color": "#f28281"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "24px"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        },
-        {
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "CONTACT DETAILS",
+          "meta": "Have lots of questions and want to apply to join the house? Make at least a $50 donation to Mistress Nicole's island project and then fill in the form below. This will then enable you to have a 20 minute skype consulation with me to see if you are suitable for the sissy house. \n<br> State why you would like to become a sissy and make it clear that you understand that you need to work to maintain a place in the sissy house. Applicants must be over 18.\n<br>Email: myslaveisland@protonmail.ch",
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-15",
+          "_name": "header3",
+          "_anchor": "header3-1f"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Whatsapp</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1h"
         }
       ]
     },
