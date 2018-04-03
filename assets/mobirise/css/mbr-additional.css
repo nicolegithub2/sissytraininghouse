@@ -936,6 +936,9 @@ h6,
 #header2-p .mbr-section-text {
   color: #000000;
 }
+#form1-1q .form-control-label {
+  color: #232323;
+}
 #ext_menu-q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -996,17 +999,4 @@ h6,
 #ext_menu-q .link[aria-expanded="true"],
 #ext_menu-q .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header3-1i .mbr-section-title,
-#header3-1i .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1i SMALL {
-  color: #f28281;
-}
-#header3-1i .mbr-section-title {
-  font-size: 48px;
-}
-#header3-1i .mbr-section-subtitle {
-  font-size: 24px;
 }
