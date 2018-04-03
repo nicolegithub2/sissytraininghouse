@@ -786,18 +786,8 @@ h6,
 #header2-12 .mbr-section-text {
   color: #000000;
 }
-#header3-1f .mbr-section-title,
-#header3-1f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1f SMALL {
-  color: #f28281;
-}
-#header3-1f .mbr-section-title {
-  font-size: 48px;
-}
-#header3-1f .mbr-section-subtitle {
-  font-size: 24px;
+#form1-1p .form-control-label {
+  color: #232323;
 }
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
