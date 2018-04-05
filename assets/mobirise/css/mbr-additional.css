@@ -857,6 +857,10 @@ h6,
 #header3-1r .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1u .mbr-section-title,
+#header3-1u .mbr-section-subtitle {
+  text-align: center;
+}
 #form1-1q .form-control-label {
   color: #232323;
 }
