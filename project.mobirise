@@ -1201,7 +1201,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
@@ -1235,8 +1235,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
@@ -1255,7 +1255,7 @@
           },
           "text1": "<p>Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.</p><p><br></p><p>\n</p><p>\n</p><p>Shape fitting wears enhancement\n</p><p>As a male, your body shape will quickly give you out if you just get any girly outfits and put them on. In other to reduce your masculinity and have a perfect transgender makeover, you definitely need all these items to get you looking like a fabulous girl. They include as boob pads and hips enhancement will really make a male pass for a girl.\n</p><p>\n</p><p><br></p>",
           "text2": "<p>Breast Pad\n</p><p>To help you cross-dress, Get a boobs forms to lift your boobs, the breast pad forms gives shape to the male's shoulders and gives you a confident feminine look. If you want a fuller breast size, buy either the breast cups or silicon's bags to give the size you want. Putting on the breast pads will not only give shape to your body but also to your dress.</p><p><br></p><p>The Corsets and Girdles\n</p><p>One of the main reasons to dress like a girl is to achieve the hourglass figure. A slimmer or girdle will help smoothen the waist area and lose some inches, while the corsets will make you lose more inches around your waist. It takes time to get accustomed to these shape fitting apparels but they will give you the look you want.\n</p><p>\n</p><p><br></p><p>\n</p><p><br></p>",
-          "text3": "<p>Hips Padding\r</p><p>There are padded panties or stand-alone pads that can be placed in your pantyhose that will build up your hips. Get products that can easily blend with your curves, you won't want a case where you will be adjusting your pads as you move. In addition, when dressing up, use pads that will tone up your transgender makeover.</p><p><br></p><p>Dressing\n</p><p>Your preferred female attire should give you a girly personality. Go for loose fitted dresses, fitted tops, and bright colors like pinks and purple. Choose lingerie that has feminine laces and attractive designs to give a comprehensive feminization look.\n</p><p>\n</p><p><br></p><p>Shoes</p><p>\n</p><p>Select shoes you can walk on comfortably without you tripping over or holding onto a wall for balance. However, heels are more feminine and sexy. It brings out the shape around your waist and shows how much you have changed from a male to a female. Remember to wax – hairy legs on heels aren’t a glorious sight. Depending on your attire, unisex sneakers are cool shoes you can add to your closets.</p>",
+          "text3": "<p>Hips Padding\n</p><p>There are padded panties or stand-alone pads that can be placed in your pantyhose that will build up your hips. Get products that can easily blend with your curves, you won't want a case where you will be adjusting your pads as you move. In addition, when dressing up, use pads that will tone up your transgender makeover.</p><p><br></p><p>Dressing\n</p><p>Your preferred female attire should give you a girly personality. Go for loose fitted dresses, fitted tops, and bright colors like pinks and purple. Choose lingerie that has feminine laces and attractive designs to give a comprehensive feminization look.\n</p><p>\n</p><p><br></p><p>Shoes</p><p>\n</p><p>Select shoes you can walk on comfortably without you tripping over or holding onto a wall for balance. However, heels are more feminine and sexy. It brings out the shape around your waist and shows how much you have changed from a male to a female. Remember to wax – hairy legs on heels aren’t a glorious sight. Depending on your attire, unisex sneakers are cool shoes you can add to your closets.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1725,7 +1725,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21006.jpg",
               "link": "",
               "alt": "",
               "title": "",
