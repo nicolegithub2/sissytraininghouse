@@ -850,9 +850,6 @@ h6,
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#extFeatures13-1b .etl-icon {
-  color: #666666;
-}
 #header3-1r .mbr-section-title,
 #header3-1r .mbr-section-subtitle {
   text-align: center;
@@ -860,6 +857,13 @@ h6,
 #header3-1u .mbr-section-title,
 #header3-1u .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1w .mbr-section-title,
+#header3-1w .mbr-section-subtitle {
+  text-align: center;
+}
+#extFeatures13-1b .etl-icon {
+  color: #666666;
 }
 #form1-1q .form-control-label {
   color: #232323;
