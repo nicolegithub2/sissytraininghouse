@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "online-training",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 76,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -873,7 +873,8 @@
     "Becomeasissy": {
       "settings": {
         "title": "How to become a sissy",
-        "meta_descr": "The 7 steps to becoming a high class sissy "
+        "meta_descr": "The 7 steps to becoming a high class sissy ",
+        "order": 2
       },
       "components": [
         {
@@ -1302,7 +1303,8 @@
     "Appynow": {
       "settings": {
         "title": "Appy now to start your sissy training ",
-        "meta_descr": "How to appy for your sissy training "
+        "meta_descr": "How to appy for your sissy training ",
+        "order": 3
       },
       "components": [
         {
@@ -1493,7 +1495,8 @@
     "mistress-nicole-bdsm": {
       "settings": {
         "title": "About Your trainer Mistress Nicole",
-        "meta_descr": "Learn about why Mistress Nicole is training sissies. "
+        "meta_descr": "Learn about why Mistress Nicole is training sissies. ",
+        "order": 4
       },
       "components": [
         {
@@ -1760,7 +1763,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x210013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1814,6 +1817,211 @@
           ],
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-1n"
+        }
+      ]
+    },
+    "online-training": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Online-training",
+        "order": 1,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">The 4 Training Stages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Who is Mistress Nicole</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Sissy Advice</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply Now</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50&amp;item_name=Application+fee&amp;currency_code=USD\" target=\"_blank\">Application fee $50</a></li>",
+          "_anchor": "ext_menu-1y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/webchat-1280x853.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Webcam chat - Online mentorship&nbsp;",
+          "text": "Feel free to get weekly online consultations and discussions about anything you need guidance on. You can discuss your thoughts, feelings, and action plans for your transition and new life. &nbsp;&nbsp;<br>All are welcome to book a session with me. Weekly sessions will help you grow and develop to the person you want to be.&nbsp;<br><br>You won't be left out if you can not come to the sissy house. I can give yuo weekly training,&nbsp;assignments, and tips, to help you become a hot little sissy. .&nbsp;&nbsp;<br>Live webcam chat is suitable for anyone including: cross-dressers, sissy girls, sissy boys, and kinksters who are into forced sissification.<br>Sessions start from = £50&nbsp;<br>Buy four sesisons and get 50% off!&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Pricing</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.nbpayment.com\" data-toolbar=\"-mbrBtnMove\">Order</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": true,
+            "rowСount": "3",
+            "colCount": "4",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "Webchat Sessions",
+          "search": "Search:",
+          "info1": "50% discount when ordering 4 sessions in a month.&nbsp;",
+          "info2": "Sissy Training sessions",
+          "info3": "(filtered from",
+          "info4": ")",
+          "table": "<thead><tr><th>Sessions</th><th>Sessions</th><th>Cost</th><th>Discount applied</th></tr></thead><tbody><tr><td>One 20 minute online Sissy Training&nbsp;</td><td>1</td><td>$50</td><td>N/A</td></tr><tr><td>Two 20 minutes online Sissy Training&nbsp;</td><td>2</td><td>$100</td><td>N/A</td></tr><tr><td>Three 20 minutes online Sissy Training</td><td>4</td><td>$200</td><td>$100</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-22"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.nbpayment.com\" data-toolbar=\"-mbrBtnMove\">Order</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-23"
         }
       ]
     }
