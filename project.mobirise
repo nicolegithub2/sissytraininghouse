@@ -1763,7 +1763,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21003.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2046,7 +2046,7 @@
           "_params": {
             "showTitle": true,
             "showSearch": true,
-            "rowСount": "3",
+            "rowСount": "4",
             "colCount": "4",
             "paddingTop": "0",
             "paddingBottom": "2",
@@ -2069,7 +2069,7 @@
           "info2": "Sissy Training sessions",
           "info3": "(filtered from",
           "info4": ")",
-          "table": "<thead><tr><th>Sessions</th><th>Sessions</th><th>Cost</th><th>Discount applied</th></tr></thead><tbody><tr><td>One 20 minute online Sissy Training&nbsp;</td><td>1</td><td>$50</td><td>N/A</td></tr><tr><td>Two 20 minutes online Sissy Training&nbsp;</td><td>2</td><td>$100</td><td>N/A</td></tr><tr><td>Three 20 minutes online Sissy Training</td><td>4</td><td>$200</td><td>$100</td></tr></tbody>",
+          "table": "<thead><tr><th>Sessions</th><th>Sessions</th><th>Cost</th><th>Discount applied</th></tr></thead><tbody><tr><td>One 20 minute online Sissy Training&nbsp;</td><td>1</td><td>$50</td><td>N/A</td></tr><tr><td>Two 20 minutes online Sissy Training&nbsp;</td><td>2</td><td>$100</td><td>N/A</td></tr><tr><td>Three 20 minutes online Sissy Training</td><td>3</td><td>$149</td><td>N/A</td></tr><tr><td>Three 20 minutes online Sissy Training</td><td>4</td><td>$200</td><td>$100</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
