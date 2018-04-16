@@ -1763,7 +1763,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1998,7 +1998,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "40",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
@@ -2016,7 +2016,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/webchat-1280x853.png",
+              "src": "@PROJECT_PATH@/assets/images/webchat-2-1280x853.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2040,7 +2040,12 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-1z"
+          "_anchor": "header2-1z",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_params": {
