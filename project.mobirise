@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "online-training",
+    "currentPage": "mistress-nicole-bdsm",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 77,
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "mcShopcart": {
@@ -43,11 +43,11 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Home",
+        "meta_descr": "Sissy training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy, webcam chat, online chat, webchat, fetish, online fetish, "
       },
       "components": [
         {
@@ -215,7 +215,7 @@
             "bgColorRadio": true,
             "bgColor": "#f28281",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader14_bg.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -405,7 +405,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",
@@ -874,7 +874,10 @@
       "settings": {
         "title": "How to become a sissy",
         "meta_descr": "The 7 steps to becoming a high class sissy ",
-        "order": 2
+        "order": 2,
+        "header_custom": "Sissy training  stages for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
+        "footer_custom": "",
+        "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
       },
       "components": [
         {
@@ -1082,7 +1085,7 @@
             "bgColorRadio": true,
             "bgColor": "#f28281",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader14_bg.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1304,7 +1307,10 @@
       "settings": {
         "title": "Appy now to start your sissy training ",
         "meta_descr": "How to appy for your sissy training ",
-        "order": 3
+        "order": 3,
+        "footer_custom": "",
+        "header_custom": "Sissy training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
+        "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
       },
       "components": [
         {
@@ -1496,7 +1502,10 @@
       "settings": {
         "title": "About Your trainer Mistress Nicole",
         "meta_descr": "Learn about why Mistress Nicole is training sissies. ",
-        "order": 4
+        "order": 4,
+        "footer_custom": "",
+        "header_custom": "Live with a dominatrix / BDSM Mistress, kink, fetish, worship, serve a Mistress, ",
+        "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
       },
       "components": [
         {
@@ -1763,7 +1772,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1825,7 +1834,9 @@
         "meta_descr": "Website Builder Description",
         "title": "Online-training",
         "order": 1,
-        "header_custom": ""
+        "header_custom": "Sissy webcam online training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
+        "footer_custom": "",
+        "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy, webcam chat, online chat, webchat, fetish, online fetish, "
       },
       "components": [
         {
@@ -2056,7 +2067,7 @@
             "paddingTop": "0",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
