@@ -2424,11 +2424,11 @@
   .extForm4 .inverse-content:first-child {
     padding-left: 15px !important; } }
 .extTestimonials1 .boxed-slider {
-  padding-top: 0; }
+  padding-top: 0 !important; }
 .extTestimonials1 .mbr-section__container {
   position: relative; }
 .extTestimonials1 .mbr-author-img img {
-  width: 5rem; }
+  width: 5rem !important; }
 .extTestimonials1 .carousel-indicators {
   margin-bottom: -3.5rem !important; }
 .extTestimonials1 .mbr-testimonial .card-block {
@@ -2445,19 +2445,19 @@
 .extTestimonials1 .mbr-testimonial-lg .card-block {
   padding-bottom: 60px; }
 .extTestimonials1 .carousel-control {
-  margin-top: -79px;
-  background: none;
-  color: #000; }
+  margin-top: -79px !important;
+  background: none !important;
+  color: #000 !important; }
   .extTestimonials1 .carousel-control:hover {
     background: none;
     color: #000;
     opacity: 1; }
   .extTestimonials1 .carousel-control.left {
-    margin-left: 0.5rem; }
+    margin-left: 0.5rem !important; }
     .extTestimonials1 .carousel-control.left .icon-prev {
       font-size: 60px; }
   .extTestimonials1 .carousel-control.right {
-    margin-right: 0.5rem; }
+    margin-right: 0.5rem !important; }
     .extTestimonials1 .carousel-control.right .icon-next {
       font-size: 60px; }
 .extTestimonials1 .carousel-inner > .active {
@@ -3771,6 +3771,13 @@
     width: 92%; }
   .extHeader14 input[type="email"] {
     margin-bottom: 10px; } }
+.extTestimonials5 .carousel-inner > .active {
+  display: block !important; }
+.extTestimonials5 .boxed-slider {
+  padding-top: 0 !important; }
+.extTestimonials5 .cloneditem-1,
+.extTestimonials5 .cloneditem-2,
+.extTestimonials5 .cloneditem-3,
 .extTestimonials5 .cloneditem-4,
 .extTestimonials5 .cloneditem-5 {
   display: none; }
@@ -3792,7 +3799,9 @@
     width: auto;
     max-width: 100%; }
 .extTestimonials5 .carousel-control {
-  margin-top: -35px; }
+  background: none !important;
+  color: #000 !important;
+  margin-top: -35px !important; }
   .extTestimonials5 .carousel-control.left {
     margin-left: 0.5rem; }
   .extTestimonials5 .carousel-control.right {
