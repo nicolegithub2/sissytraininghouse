@@ -865,6 +865,10 @@ h6,
 #extFeatures13-1b .etl-icon {
   color: #666666;
 }
+#header3-2b .mbr-section-title,
+#header3-2b .mbr-section-subtitle {
+  text-align: center;
+}
 #form1-1q .form-control-label {
   color: #232323;
 }
