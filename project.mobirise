@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1333,6 +1333,39 @@
           ],
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-1o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "animText1": "Advice",
+            "animText2": "Hints",
+            "animText3": "Tips",
+            "typeSpeed": 60,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/night-8-2000x2000-800x800.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "title": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix <br><br>",
+          "text": "Being a sissy slave to a pro-Domme is easier said than done. You do not have to just sit there and look beautiful, you have to make sure you serve your Dominatrix properly with love and attention. This is where it becomes necessary to know a few things: what to do and what not to do.\n<br>\n<br>Like many sissies who love to please men and keep them happy, Gina was yet another aspiring young sissy who turned to porn because she was struggling with heracting career. She knew what aroused her, and what aroused men and women who wanted her to do what she loved, but what she did not realize was the fact that she needed some sort of training to turn into a woman who had the ability to bring men on their knees. Not just bring them down but also make them want her worship her and beg her for thrashing and pleasure.\n<br>\n<br>Thanks to the two demanding clients, she soon realized that she needed to learn the tricks of the trade. She started searching for a mentor. She was looking for someone who would not only teach her, but turn her into a proper sissy whore. Her search ended when she came in touch with Mistress Nicole who was then very active in the BDSM scene and very popular among men. She was exactly the kind of women Gina needed as a trainer. A few meetings with Gina and Mistress Nicole agreed to train Gina. However, there was one condition - Gina, like other slaves, would serve Mistress Nicole like a loyal and faithful slave and put pleasure of her owner before her own life. Gina agreed at once and submitted to the beautiful mistress.\n<br>\n<br>Soon, Gina was relocated to Mistress Nicole’s place and took her place as the Mistress’s house help and her favorite toy. Mistress Nicole taught Gina how to look at people, how to seduce them, how to get extra tips and how to make them go home wanting more and more each time. Gina learnt all of it with practical training. Mistress Nicole taught her all the rules. she was expected to wake her mistress up in the morning by kissing her feet, make breakfast for her, clean her shoes, do her laundry, drive her around and even worship her body anywhere and whenever the mistress desired. Gina did it all and took it all. She was spanked on the ass, her ass was fucked with dildos of all types and sizes, she always had a buttplug up her ass, she was kept in a cage, her back was whipped with canes, her nipples were squeezed and her lips were bruised of cleaning her mistress’s heels. But all of this was done under the strict supervision of Mistress Nicole and to discipline her apprentice. \n<br>\n<br>Under the guidance and strict rules imposed by Mistress Nicole, Gina learnt and mastered the art of seduction and discipline. She learnt how to make people beg for attention and keep them on the edge while ensuring their pleasure and safety. She learnt what people wanted and how to make them worship her. She slowly transformed from a worthless slave sissy boy into a mind blowing sissy whote that could entice men into giving her anything she wanted with pleasure. And this is how she became a professional sissy whore with several men at her disposal waiting for the next session she will agree to attend.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\">Live in the sissy house</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"online-training\" data-toolbar=\"-mbrBtnMove\">Online traning</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader11",
+          "_anchor": "extHeader11-28"
         }
       ]
     },
@@ -1805,7 +1838,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
               "link": "",
               "alt": "",
               "title": "",
