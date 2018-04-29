@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 106,
+    "uniqCompNum": 109,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -874,7 +874,7 @@
       "settings": {
         "title": "How to become a sissy",
         "meta_descr": "The 7 steps to becoming a high class sissy ",
-        "order": 6,
+        "order": 7,
         "header_custom": "Sissy training  stages for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "footer_custom": "",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1408,7 +1408,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "iconsBgColor": "#e6e6e6",
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 2,
             "columns": "4",
             "bgImageRadio": false,
@@ -1470,20 +1470,20 @@
           },
           "title1": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Becoming a woman for a transgender female who has been assigned male by birth can be an extremely challenging transition for many transgender women. The society expects certain behaviors from both men and women alike as an indication or validation of gender. From the talking to walking, sitting, table manners, etc., people place certain expectations on women different from men. Thus, cross-dressing as a female doesn’t entirely make you female. The sexy clothes, heels, handbags, earrings, etc. do not make a woman. There are certain feminization tips, however, that can enhance your feminine image, boost your confidence and project you as a female, even at first sight.",
+          "caption1": "Becoming a woman for a transgender female who has been assigned male by birth can be an extremely challenging transition for many transgender women. The society expects certain behaviors from both men and women alike as an indication or validation of gender. From the talking to walking, sitting, table manners, etc., people place certain expectations on women different from men.&nbsp;",
           "title2": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
           "subtitle2": "One of Bootstrap 4s big points",
           "caption2": "Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.",
           "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion. Such is the case with cross-dressing. It is the act of wearing items of clothing and other accouterments commonly associated with the opposite sex within a particular society.",
+          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
           "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges. Transitioning from one gender to another is one of such changes that pose a lot of challenges, especially as it relates to fashion.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1496,8 +1496,113 @@
             },
             ".wraper": {
               "border-color": "#e6e6e6 !important"
+            },
+            "H4": {
+              "font-size": "16px"
             }
           }
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "iconsBgColor": "#e6e6e6",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Being a sissy slave to a pro-Domme is easier said than done. You do not have to just sit there and look beautiful, you have to make sure you serve your Dominatrix properly with love and attention. This is where it becomes necessary to know a few things: what to do and what not to do.",
+          "title2": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.",
+          "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
+          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures5",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#e6e6e6 !important"
+            },
+            ".wraper": {
+              "border-color": "#e6e6e6 !important"
+            },
+            "H4": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "extFeatures5-2y"
         }
       ]
     },
@@ -1505,7 +1610,7 @@
       "settings": {
         "title": "Appy now to start your sissy training ",
         "meta_descr": "How to appy for your sissy training ",
-        "order": 7,
+        "order": 8,
         "footer_custom": "",
         "header_custom": "Sissy training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1700,7 +1805,7 @@
       "settings": {
         "title": "About Your trainer Mistress Nicole",
         "meta_descr": "Learn about why Mistress Nicole is training sissies. ",
-        "order": 8,
+        "order": 9,
         "footer_custom": "",
         "header_custom": "Live with a dominatrix / BDSM Mistress, kink, fetish, worship, serve a Mistress, ",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1970,7 +2075,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21004.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2031,7 +2136,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Online-training",
-        "order": 5,
+        "order": 6,
         "header_custom": "Sissy webcam online training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "footer_custom": "",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy, webcam chat, online chat, webchat, fetish, online fetish, "
@@ -2310,7 +2415,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
-        "order": 4,
+        "order": 5,
         "header_custom": ""
       },
       "components": [
@@ -2441,7 +2546,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
-        "order": 3,
+        "order": 4,
         "header_custom": ""
       },
       "components": [
@@ -2572,7 +2677,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE",
-        "order": 2,
+        "order": 3,
         "header_custom": ""
       },
       "components": [
@@ -2703,7 +2808,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
-        "order": 1,
+        "order": 2,
         "header_custom": ""
       },
       "components": [
@@ -2827,6 +2932,136 @@
           ],
           "_name": "extMsg-box4",
           "_anchor": "extMsg-box4-2x"
+        }
+      ]
+    },
+    "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ": {
+      "settings": {
+        "meta_descr": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ",
+        "title": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "_anchor": "ext_menu-2z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3d3d3d",
+            "bgText": "Sissy Training",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ",
+          "text": "Being a sissy slave to a pro-Domme is easier said than done. You do not have to just sit there and look beautiful, you have to make sure you serve your Dominatrix properly with love and attention. This is where it becomes necessary to know a few things: what to do and what not to do.\n<br>\n<br>Like many sissies who love to please men and keep them happy, Gina was yet another aspiring young sissy who turned to porn because she was struggling with heracting career. She knew what aroused her, and what aroused men and women who wanted her to do what she loved, but what she did not realize was the fact that she needed some sort of training to turn into a woman who had the ability to bring men on their knees. Not just bring them down but also make them want her worship her and beg her for thrashing and pleasure.\n<br>\n<br>Thanks to the two demanding clients, she soon realized that she needed to learn the tricks of the trade. She started searching for a mentor. She was looking for someone who would not only teach her, but turn her into a proper sissy whore. Her search ended when she came in touch with Mistress Nicole who was then very active in the BDSM scene and very popular among men. She was exactly the kind of women Gina needed as a trainer. A few meetings with Gina and Mistress Nicole agreed to train Gina. However, there was one condition - Gina, like other slaves, would serve Mistress Nicole like a loyal and faithful slave and put pleasure of her owner before her own life. Gina agreed at once and submitted to the beautiful mistress.\n<br>\n<br>Soon, Gina was relocated to Mistress Nicole’s place and took her place as the Mistress’s house help and her favorite toy. Mistress Nicole taught Gina how to look at people, how to seduce them, how to get extra tips and how to make them go home wanting more and more each time. Gina learnt all of it with practical training. Mistress Nicole taught her all the rules. she was expected to wake her mistress up in the morning by kissing her feet, make breakfast for her, clean her shoes, do her laundry, drive her around and even worship her body anywhere and whenever the mistress desired. Gina did it all and took it all. She was spanked on the ass, her ass was fucked with dildos of all types and sizes, she always had a buttplug up her ass, she was kept in a cage, her back was whipped with canes, her nipples were squeezed and her lips were bruised of cleaning her mistress’s heels. But all of this was done under the strict supervision of Mistress Nicole and to discipline her apprentice. \n<br>\n<br>Under the guidance and strict rules imposed by Mistress Nicole, Gina learnt and mastered the art of seduction and discipline. She learnt how to make people beg for attention and keep them on the edge while ensuring their pleasure and safety. She learnt what people wanted and how to make them worship her. She slowly transformed from a worthless slave sissy boy into a mind blowing sissy whote that could entice men into giving her anything she wanted with pleasure. And this is how she became a professional sissy whore with several men at her disposal waiting for the next session she will agree to attend.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Live in the house</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"online-training\" data-toolbar=\"-mbrBtnMove\">Online training</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-30"
         }
       ]
     }

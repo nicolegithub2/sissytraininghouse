@@ -875,6 +875,18 @@ h6,
 #extFeatures5-2o .wraper {
   border-color: #e6e6e6 !important;
 }
+#extFeatures5-2o H4 {
+  font-size: 16px;
+}
+#extFeatures5-2y .mbr-iconfont-features4 {
+  color: #e6e6e6 !important;
+}
+#extFeatures5-2y .wraper {
+  border-color: #e6e6e6 !important;
+}
+#extFeatures5-2y H4 {
+  font-size: 16px;
+}
 #form1-1q .form-control-label {
   color: #232323;
 }
@@ -1340,5 +1352,66 @@ h6,
 }
 #ext_menu-2w .link[aria-expanded="true"],
 #ext_menu-2w .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-2z .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2z .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2z .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-2z .close-icon::before,
+#ext_menu-2z .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-2z .link,
+#ext_menu-2z .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-2z .link {
+  font-size: 0.75rem;
+}
+#ext_menu-2z .dropdown-item,
+#ext_menu-2z .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-2z .link:hover,
+#ext_menu-2z .dropdown-item:hover,
+#ext_menu-2z .link:focus,
+#ext_menu-2z .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-2z .link[aria-expanded="true"],
+#ext_menu-2z .dropdown-menu {
+  background: #ed5453;
+}
+#ext_menu-2z .nav-dropdown-sm .link:focus,
+#ext_menu-2z .nav-dropdown-sm .link:hover,
+#ext_menu-2z .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2z .nav-dropdown-sm .dropdown-item:hover {
+  background: #f17473!important;
+}
+#ext_menu-2z .navbar,
+#ext_menu-2z .nav-dropdown-sm,
+#ext_menu-2z .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2z .nav-dropdown-sm .dropdown-menu {
+  background: #f28281;
+}
+#ext_menu-2z .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-2z .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2z .bg-color.transparent.opened .link:hover,
+#ext_menu-2z .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-2z .link[aria-expanded="true"],
+#ext_menu-2z .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
