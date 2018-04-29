@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
+    "currentPage": "Becomeasissy",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1481,9 +1481,9 @@
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges. Transitioning from one gender to another is one of such changes that pose a lot of challenges, especially as it relates to fashion.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1970,7 +1970,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21003.jpg",
               "link": "",
               "alt": "",
               "title": "",
