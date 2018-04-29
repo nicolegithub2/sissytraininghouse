@@ -889,11 +889,11 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "Sissy / Crossdressing Advice",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "By Guest writers",
           "_tags": [
             "Theme"
           ],
@@ -909,7 +909,7 @@
             "showButtons": true,
             "iconsBgColor": "#e6e6e6",
             "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
@@ -1010,8 +1010,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "Sissy training Stories",
@@ -1031,7 +1031,7 @@
             "showButtons": true,
             "iconsBgColor": "#e6e6e6",
             "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
@@ -1911,7 +1911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21006.jpg",
               "link": "",
               "alt": "",
               "title": "",
