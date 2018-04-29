@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ",
+    "currentPage": "Becomeasissy",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 109,
+    "uniqCompNum": 110,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -570,7 +570,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
         },
         {
           "_tags": [
@@ -881,6 +881,250 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Sissy / Crossdressing Advice",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "iconsBgColor": "#e6e6e6",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Becoming a woman for a transgender female who has been assigned male by birth can be an extremely challenging transition for many transgender women. The society expects certain behaviors from both men and women alike as an indication or validation of gender. From the talking to walking, sitting, table manners, etc., people place certain expectations on women different from men.&nbsp;",
+          "title2": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.",
+          "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
+          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures5",
+          "_anchor": "extFeatures5-2o",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#e6e6e6 !important"
+            },
+            ".wraper": {
+              "border-color": "#e6e6e6 !important"
+            },
+            "H4": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Sissy training Stories",
+          "meta": "By guest writers",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-31"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "iconsBgColor": "#e6e6e6",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Being a sissy slave to a pro-Domme is easier said than done. You do not have to just sit there and look beautiful, you have to make sure you serve your Dominatrix properly with love and attention. This is where it becomes necessary to know a few things: what to do and what not to do.",
+          "title2": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.",
+          "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
+          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures5",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#e6e6e6 !important"
+            },
+            ".wraper": {
+              "border-color": "#e6e6e6 !important"
+            },
+            "H4": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "extFeatures5-2y"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -965,211 +1209,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
-          "meta": "By Guest writer",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1r"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Becoming a woman for a transgender female who has been assigned male by birth can be an extremely challenging transition for many transgender women. The society expects certain behaviors from both men and women alike as an indication or validation of gender. From the talking to walking, sitting, table manners, etc., people place certain expectations on women different from men. Thus, cross-dressing as a female doesn’t entirely make you female. The sexy clothes, heels, handbags, earrings, etc. do not make a woman. There are certain feminization tips, however, that can enhance your feminine image, boost your confidence and project you as a female, even at first sight.\n</p><p>Walking\n</p><p>Unlearning your masculine walk will take some time to do, but with much practice it is achievable. Some tips to help you are reeled out below.</p><p><br></p><p>\n</p><p>1).    Observe how women walk. Go to places where there are many women and observe their movement. You can watch movies too. Observe their arms swinging, the coordination of their arms and legs, their carriage, etc.</p><p><br></p><p>2). Women’s arms swing farther out when walking and they don’t hit their hips. To achieve this, practice putting your arms down at your side and rotate your hands 450 away from your body, thus making your forearms to face forward.</p>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\">3).    Naturally, men have a more muscular and larger shoulder than women. When walking, men hunch their shoulders forward, while women tend to draw their shoulders backward. To achieve this, practice standing in front of the mirror and hunch your shoulders forward and backward a couple of times each day.</span><br></p><p><br></p><p>4).    Women have wider pelvises than men and a more general fat distribution around the hip region that gives them the characteristic swaying motion when they walk. Depending on your age, hormones can enhance a higher fat distribution around the hip region. When you walk, put one foot in front of the other to achieve the characteristic swaying hip of women. Overdoing this, however, can make you look effeminate..</p><p><br></p><p>5). Walk confidently with your head help up; don’t look down on the ground. Make eye contact with people and smile with your lips closed or partly opened.\n</p><p>Talking\n</p><p>The main difference between the male and female voice is the pitch. Compared with women, men have much longer and thicker vocal cords which explain the characteristic deep voice of men. Some feminization tips for raising your pitch are.\n</p><p><br></p><p>6). Take a deep breath and emit an audible sigh (like ‘Haaa’) as high as you can go without breaking into falsetto (unusually high pitch by men). You can also deliberately go into falsetto and slide down into a comfortable pitch. With much practice, your vocal cords will get accustomed to this.</p>",
-          "text3": "<p><span style=\"font-size: 1.07rem;\">7).    Unlike men, women tend to have an inconsistent intonation when speaking (known as modulation). Practice this by reading sentences and taking a short breathe where there is a comma. Listen to women on TV (especially news-casters) and note their phrasing and modulation when they speak.</span><br></p><p>Sitting\n</p><p>Women have a sitting captivating and graceful sitting posture known as ‘the lady-like sitting elegance’ unlike men who sit ‘casually’ with their legs apart. Practice the following sitting habits.\n</p><p><br></p><p>8).    Sit down gently, slowly lowering yourself into the seat. Don’t be in a rush to sit. The thighs of your back leg should carry your weight and not your knees.\n</p><p><br></p><p>9).    Sit up straight and tall with your hands placed together on your laps.\n</p><p>10.    Never sit with your legs apart. If you have to cross your legs at the knee, make sure that you are wearing a long skirt. It is best to cross your legs at the ankle if you are wearing something short.\n</p><p>Learning to behave like a woman is a very demanding male to the female transgender transition process. But with determination and much practice, it is achievable. The key here is practice, practice and more practice.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-1s"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
-          "meta": "By Guess writer",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1u"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.</p><p><br></p><p>\n</p><p>\n</p><p>Shape fitting wears enhancement\n</p><p>As a male, your body shape will quickly give you out if you just get any girly outfits and put them on. In other to reduce your masculinity and have a perfect transgender makeover, you definitely need all these items to get you looking like a fabulous girl. They include as boob pads and hips enhancement will really make a male pass for a girl.\n</p><p>\n</p><p><br></p>",
-          "text2": "<p>Breast Pad\n</p><p>To help you cross-dress, Get a boobs forms to lift your boobs, the breast pad forms gives shape to the male's shoulders and gives you a confident feminine look. If you want a fuller breast size, buy either the breast cups or silicon's bags to give the size you want. Putting on the breast pads will not only give shape to your body but also to your dress.</p><p><br></p><p>The Corsets and Girdles\n</p><p>One of the main reasons to dress like a girl is to achieve the hourglass figure. A slimmer or girdle will help smoothen the waist area and lose some inches, while the corsets will make you lose more inches around your waist. It takes time to get accustomed to these shape fitting apparels but they will give you the look you want.\n</p><p>\n</p><p><br></p><p>\n</p><p><br></p>",
-          "text3": "<p>Hips Padding\n</p><p>There are padded panties or stand-alone pads that can be placed in your pantyhose that will build up your hips. Get products that can easily blend with your curves, you won't want a case where you will be adjusting your pads as you move. In addition, when dressing up, use pads that will tone up your transgender makeover.</p><p><br></p><p>Dressing\n</p><p>Your preferred female attire should give you a girly personality. Go for loose fitted dresses, fitted tops, and bright colors like pinks and purple. Choose lingerie that has feminine laces and attractive designs to give a comprehensive feminization look.\n</p><p>\n</p><p><br></p><p>Shoes</p><p>\n</p><p>Select shoes you can walk on comfortably without you tripping over or holding onto a wall for balance. However, heels are more feminine and sexy. It brings out the shape around your waist and shows how much you have changed from a male to a female. Remember to wax – hairy legs on heels aren’t a glorious sight. Depending on your attire, unisex sneakers are cool shoes you can add to your closets.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-1v"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "title": "CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE",
-          "meta": "By Guest writer",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1w"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion. Such is the case with cross-dressing. It is the act of wearing items of clothing and other accouterments commonly associated with the opposite sex within a particular society.\n</p><p>Examples abound in recorded history and in many societies of cross-dressing. For instance, there is a rich history of cross-dressing found in folklore, literature, theatre, and music. Examples include Kabuki and Korean shamanism. There are many reasons why a man (or a woman) might want to cross-dress, such as \"those female impersonators” who look upon dressing as solely connected to their livelihood, actors undertaking roles, individual males and females enjoying a masquerade, and so on. \n</p><p>Some do it out of personal preference for the opposite sex; as a way of disguise (in the dramatic arts or during the political protest). Others do it to challenge or ‘change’ the generally accepted way of dressing. In modern times, however, many of these ‘generally accepted styles’ are giving way to new trends. Such trends are reeled out below.\n</p><p>In recent times, there are more male-to-female cross-dressers than female-to-male. The reason for this new wave or trend is not really understood. Perhaps this is due to the aesthetics (or appeal) of the woman body.</p>",
-          "text2": "<p>Cross-dressing for fraud\n</p><p>Many purported ‘con-women’ are in fact, men! UK’s Daily Mail of 25 July 2013 reported a case of men, seen in wigs and women's clothes, who struck in York and Harrogate. Officers described them as ‘very charming’ as they convinced victims to part with their bank details and then went on to fleece their accounts. Under the scam, the fraudsters called their victims on the phone, pretending to be from their bank or a utility company. They told the elderly person there has been fraud committed against their bank account or that they have not paid a bill. The conmen then offered to send someone to the victim’s house to pick up their bank card in order to sort out the fraud or to settle the bill. At some point, as part of their ‘plausible’ act, the conmen also managed to obtain the victim’s PIN from them. This trend is also increasing in most developing countries.\n</p><p>Transgender Makeover Program\n</p><p>One of the concerns with cross-dressing is finding the right ‘accessories.’ Thus, there are now experts who offer transgender makeover services for crossdressers who desire either male-to-female or female-to-male transformation. An example is New York Image Consultant (NYIC) that offer services such as makeup lessons, shopping sessions, wig or extension consultations, photo-shoots and cosmetic guidance. Good news! Crossdressers now have everything they need to feel confident enough to live a full, successful, rewarding life with an identity they have longed to embrace.</p>",
-          "text3": "<p>“Cross-dressing Clergy” \r</p><p>Although in several parts of the United States (Australia and Canada also), same-sex marriage has been passed into law, the church has not been supportive of this. A handful of churches and clergymen, however, have voiced their support for same-sex marriage and transgender people. In fact, there are now ‘cross-dressing clergy’ who minister to cross-dressing communities in the United States! Great news for cross-dressers!\r</p><p>Transsexual Cross-dressers\r</p><p>Many male-to-female cross-dressers are now ‘upgrading’ to becoming transsexual (transgender people who desire medical assistance to transition from one sex to another). This is described as feminization. Famous examples include Caitlyn Jenner, Amanda Lepore, Lavern Cox, Carmen Carrera, and several others.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-1x"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "animText1": "Advice",
-            "animText2": "Hints",
-            "animText3": "Tips",
-            "typeSpeed": 60,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/night-8-2000x2000-800x800.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.8"
-          },
-          "title": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
-          "text": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges. Transitioning from one gender to another is one of such changes that pose a lot of challenges, especially as it relates to fashion.\n<br>Dressing to transition for a male-to-female transgender female can be extremely overwhelming, especially for one who has been a ‘man’ for a better part of his life. If you are looking at presenting a more feminine figure, your best bet is reconstruction procedures. However, this can cost a fortune to undergo. You need not go to that extreme as there are simple rules to follow that will give you that sexy feminine figure you so much desire. The key is finding ways to minimizing your masculine features and accentuating your feminine features. 3 key areas are considered: clothes, make-up, and hair\n<br>Clothes\n<br> In becoming a woman, clothes play a big part in expressing yourself. But it can be a headache knowing what to put on for a particular outing. You need to know the type of body you have to deal with this. Basically, there are 5 body types: hourglass (very few trans women have this figure); pear (smaller shoulders and thighs than hips, waist and thighs); apple (larger waist and average chest, very common shape for transgender women); inverted triangle (broad shoulders and slimmer hips and midsection; also common in many transgender women); and column (slender shape with narrow shoulders, chest, and hips).\n<br>Bodycons and tight-fitting dresses (which amplify the natural shape of your body should be avoided). Instead, fit and flare or A-line dresses and skirts should be worn. For pants, boot-cuts are wonderful for all body types. This is especially good for women with slightly bigger feet, as they can help hide big shoes. For tops, go for structure and flow (with v-neck). Tight-fitting tops should generally be avoided. V-necks make the face slimmer and more feminine and draw the eyes down towards the chest and mid-section away from the shoulders.\n<br>Makeup\n<br>The journey to becoming a woman is often tasking when it comes to makeup. Many cross-dressing women do not the right kind of makeup to apply for an occasion. You need not fret as there are several transgender makeover programs offered by fashion houses at very little cost. Many stores offer professional makeover services either for free or for an in-store purchase of a certain amount. One of the challenges to make up is facial hair. Permanent hair removal procedure is expensive, thus hair concealers (with an orange or red undertone for better undertone) are often used before other makeup procedures are done.\n<br>Hair\n<br>As exciting as male to female transition is, one of its biggest concerns is hair loss (alopecia) and hair care. Hair transplantation procedure is a very effective solution to receding hairline in transgender women, but this can be very expensive. Hair thickeners and hair loss medication are some of the cost-effective products that can help increase scalp hair growth and reduce hair loss. Wigs and other hair extension procedures are that can be applied.\n<br>Becoming a woman can be very challenging both in terms of cost and physical effort involves, but the end result is worth the effort in the long run.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\">Live in the sissy house</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"online-training\" data-toolbar=\"-mbrBtnMove\">Online traning</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader11",
-          "_anchor": "extHeader11-27"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "animText1": "Advice",
-            "animText2": "Hints",
-            "animText3": "Tips",
-            "typeSpeed": 60,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/night-9-2000x2000-800x800.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.8"
-          },
-          "title": "Sissy Story<br>How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix <br><br>",
-          "text": "Being a sissy slave to a pro-Domme is easier said than done. You do not have to just sit there and look beautiful, you have to make sure you serve your Dominatrix properly with love and attention. This is where it becomes necessary to know a few things: what to do and what not to do.\n<br>\n<br>Like many sissies who love to please men and keep them happy, Gina was yet another aspiring young sissy who turned to porn because she was struggling with heracting career. She knew what aroused her, and what aroused men and women who wanted her to do what she loved, but what she did not realize was the fact that she needed some sort of training to turn into a woman who had the ability to bring men on their knees. Not just bring them down but also make them want her worship her and beg her for thrashing and pleasure.\n<br>\n<br>Thanks to the two demanding clients, she soon realized that she needed to learn the tricks of the trade. She started searching for a mentor. She was looking for someone who would not only teach her, but turn her into a proper sissy whore. Her search ended when she came in touch with Mistress Nicole who was then very active in the BDSM scene and very popular among men. She was exactly the kind of women Gina needed as a trainer. A few meetings with Gina and Mistress Nicole agreed to train Gina. However, there was one condition - Gina, like other slaves, would serve Mistress Nicole like a loyal and faithful slave and put pleasure of her owner before her own life. Gina agreed at once and submitted to the beautiful mistress.\n<br>\n<br>Soon, Gina was relocated to Mistress Nicole’s place and took her place as the Mistress’s house help and her favorite toy. Mistress Nicole taught Gina how to look at people, how to seduce them, how to get extra tips and how to make them go home wanting more and more each time. Gina learnt all of it with practical training. Mistress Nicole taught her all the rules. she was expected to wake her mistress up in the morning by kissing her feet, make breakfast for her, clean her shoes, do her laundry, drive her around and even worship her body anywhere and whenever the mistress desired. Gina did it all and took it all. She was spanked on the ass, her ass was fucked with dildos of all types and sizes, she always had a buttplug up her ass, she was kept in a cage, her back was whipped with canes, her nipples were squeezed and her lips were bruised of cleaning her mistress’s heels. But all of this was done under the strict supervision of Mistress Nicole and to discipline her apprentice. \n<br>\n<br>Under the guidance and strict rules imposed by Mistress Nicole, Gina learnt and mastered the art of seduction and discipline. She learnt how to make people beg for attention and keep them on the edge while ensuring their pleasure and safety. She learnt what people wanted and how to make them worship her. She slowly transformed from a worthless slave sissy boy into a mind blowing sissy whote that could entice men into giving her anything she wanted with pleasure. And this is how she became a professional sissy whore with several men at her disposal waiting for the next session she will agree to attend.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\">Live in the sissy house</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"online-training\" data-toolbar=\"-mbrBtnMove\">Online traning</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader11",
-          "_anchor": "extHeader11-28"
-        },
-        {
-          "_params": {
-            "token": "3632796227.727bfe1.f881b41b7d7f4286b49ffef8a56bad72",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "3",
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-1o"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
         },
         {
           "_params": {
@@ -1368,241 +1408,37 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_params": {
-            "showMeta": true,
+            "token": "3632796227.727bfe1.f881b41b7d7f4286b49ffef8a56bad72",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "3",
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Sissy / Crossdressing Advice",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2b"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Becomeasissy#header3-1r\" data-toolbar=\"-mbrBtnMove\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Becomeasissy#header3-1u\" data-toolbar=\"-mbrBtnMove\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Becomeasissy#header3-1w\" data-toolbar=\"-mbrBtnMove\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Becomeasissy#extHeader11-27\" data-toolbar=\"-mbrBtnMove\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-29"
-        },
-        {
-          "_params": {
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true,
-            "iconsBgColor": "#e6e6e6",
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "compass",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "title1": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Becoming a woman for a transgender female who has been assigned male by birth can be an extremely challenging transition for many transgender women. The society expects certain behaviors from both men and women alike as an indication or validation of gender. From the talking to walking, sitting, table manners, etc., people place certain expectations on women different from men.&nbsp;",
-          "title2": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.",
-          "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
-          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
           "_tags": [
             "Extension"
           ],
-          "_name": "extFeatures5",
-          "_anchor": "extFeatures5-2o",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#e6e6e6 !important"
-            },
-            ".wraper": {
-              "border-color": "#e6e6e6 !important"
-            },
-            "H4": {
-              "font-size": "16px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true,
-            "iconsBgColor": "#e6e6e6",
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.6
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "compass",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "title1": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Being a sissy slave to a pro-Domme is easier said than done. You do not have to just sit there and look beautiful, you have to make sure you serve your Dominatrix properly with love and attention. This is where it becomes necessary to know a few things: what to do and what not to do.",
-          "title2": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Every day we get to see trending outfits for different genders, styles, and class. In this article, you will be learning how to dress from a male to a female just in few hours. It is important to go easy and consider the cost when taking on a cross-dressing adventure. To have a memorable experience in just a few hours, there are basic things to get to make your adventures spontaneous and smooth.",
-          "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
-          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures5",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#e6e6e6 !important"
-            },
-            ".wraper": {
-              "border-color": "#e6e6e6 !important"
-            },
-            "H4": {
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "extFeatures5-2y"
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-1o"
         }
       ]
     },
@@ -1784,7 +1620,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
         },
         {
           "_params": {
@@ -1895,7 +1731,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>"
         },
         {
           "_styles": {
@@ -2075,7 +1911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21005.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2302,7 +2138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
           "_anchor": "ext_menu-1y"
         },
         {
@@ -2503,7 +2339,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
           "_anchor": "ext_menu-2p"
         },
         {
@@ -2634,7 +2470,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
           "_anchor": "ext_menu-2r"
         },
         {
@@ -2765,7 +2601,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
           "_anchor": "ext_menu-2u"
         },
         {
@@ -2896,7 +2732,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
           "_anchor": "ext_menu-2w"
         },
         {
@@ -3026,7 +2862,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"true\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"true\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
           "_anchor": "ext_menu-2z"
         },
         {
