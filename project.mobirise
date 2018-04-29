@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE",
+    "currentPage": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 104,
+    "uniqCompNum": 106,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -874,7 +874,7 @@
       "settings": {
         "title": "How to become a sissy",
         "meta_descr": "The 7 steps to becoming a high class sissy ",
-        "order": 5,
+        "order": 6,
         "header_custom": "Sissy training  stages for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "footer_custom": "",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1477,9 +1477,9 @@
           "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion. Such is the case with cross-dressing. It is the act of wearing items of clothing and other accouterments commonly associated with the opposite sex within a particular society.",
-          "title4": "Unlimited Sites",
+          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges. Transitioning from one gender to another is one of such changes that pose a lot of challenges, especially as it relates to fashion.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1505,7 +1505,7 @@
       "settings": {
         "title": "Appy now to start your sissy training ",
         "meta_descr": "How to appy for your sissy training ",
-        "order": 6,
+        "order": 7,
         "footer_custom": "",
         "header_custom": "Sissy training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1700,7 +1700,7 @@
       "settings": {
         "title": "About Your trainer Mistress Nicole",
         "meta_descr": "Learn about why Mistress Nicole is training sissies. ",
-        "order": 7,
+        "order": 8,
         "footer_custom": "",
         "header_custom": "Live with a dominatrix / BDSM Mistress, kink, fetish, worship, serve a Mistress, ",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1970,7 +1970,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21002.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2031,7 +2031,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Online-training",
-        "order": 4,
+        "order": 5,
         "header_custom": "Sissy webcam online training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "footer_custom": "",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy, webcam chat, online chat, webchat, fetish, online fetish, "
@@ -2310,7 +2310,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
-        "order": 3,
+        "order": 4,
         "header_custom": ""
       },
       "components": [
@@ -2441,7 +2441,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
-        "order": 2,
+        "order": 3,
         "header_custom": ""
       },
       "components": [
@@ -2572,7 +2572,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE",
-        "order": 1,
+        "order": 2,
         "header_custom": ""
       },
       "components": [
@@ -2696,6 +2696,137 @@
           ],
           "_name": "extMsg-box4",
           "_anchor": "extMsg-box4-2v"
+        }
+      ]
+    },
+    "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
+        "order": 1,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in th Sissy House</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Articles</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Sissy Crossdresser Advice</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1r\" aria-expanded=\"false\">10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1u\" aria-expanded=\"false\">HOW TO DRESS LIKE A GIRL IN FEW HOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-1w\" aria-expanded=\"false\">CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-27\" aria-expanded=\"false\">THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"mistress-nicole-bdsm\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Sissy Stories&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#extHeader11-28\" aria-expanded=\"false\">How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix&nbsp;</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "_anchor": "ext_menu-2w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3d3d3d",
+            "bgText": "Sissy Training",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
+          "text": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges. Transitioning from one gender to another is one of such changes that pose a lot of challenges, especially as it relates to fashion.\n<br>Dressing to transition for a male-to-female transgender female can be extremely overwhelming, especially for one who has been a ‘man’ for a better part of his life. If you are looking at presenting a more feminine figure, your best bet is reconstruction procedures. However, this can cost a fortune to undergo. You need not go to that extreme as there are simple rules to follow that will give you that sexy feminine figure you so much desire. The key is finding ways to minimizing your masculine features and accentuating your feminine features. 3 key areas are considered: clothes, make-up, and hair\n<br>Clothes\n<br> In becoming a woman, clothes play a big part in expressing yourself. But it can be a headache knowing what to put on for a particular outing. You need to know the type of body you have to deal with this. Basically, there are 5 body types: hourglass (very few trans women have this figure); pear (smaller shoulders and thighs than hips, waist and thighs); apple (larger waist and average chest, very common shape for transgender women); inverted triangle (broad shoulders and slimmer hips and midsection; also common in many transgender women); and column (slender shape with narrow shoulders, chest, and hips).\n<br>Bodycons and tight-fitting dresses (which amplify the natural shape of your body should be avoided). Instead, fit and flare or A-line dresses and skirts should be worn. For pants, boot-cuts are wonderful for all body types. This is especially good for women with slightly bigger feet, as they can help hide big shoes. For tops, go for structure and flow (with v-neck). Tight-fitting tops should generally be avoided. V-necks make the face slimmer and more feminine and draw the eyes down towards the chest and mid-section away from the shoulders.\n<br>Makeup\n<br>The journey to becoming a woman is often tasking when it comes to makeup. Many cross-dressing women do not the right kind of makeup to apply for an occasion. You need not fret as there are several transgender makeover programs offered by fashion houses at very little cost. Many stores offer professional makeover services either for free or for an in-store purchase of a certain amount. One of the challenges to make up is facial hair. Permanent hair removal procedure is expensive, thus hair concealers (with an orange or red undertone for better undertone) are often used before other makeup procedures are done.\n<br>Hair\n<br>As exciting as male to female transition is, one of its biggest concerns is hair loss (alopecia) and hair care. Hair transplantation procedure is a very effective solution to receding hairline in transgender women, but this can be very expensive. Hair thickeners and hair loss medication are some of the cost-effective products that can help increase scalp hair growth and reduce hair loss. Wigs and other hair extension procedures are that can be applied.\n<br>Becoming a woman can be very challenging both in terms of cost and physical effort involves, but the end result is worth the effort in the long run.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Live in the house</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"online-training\" data-toolbar=\"-mbrBtnMove\">Online training</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-2x"
         }
       ]
     }
