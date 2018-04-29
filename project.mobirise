@@ -1911,7 +1911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21007.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21008.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1984,10 +1984,10 @@
             "showBullets": true,
             "fullWidth": true,
             "spacing": "1",
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "filterBgColor": true,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "showText": false,
             "filter": false,
             "images": [
