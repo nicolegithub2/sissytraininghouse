@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "Becomeasissy",
+    "currentPage": "Earning the chance to wear Mistress Nicoles panties",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 119,
+    "uniqCompNum": 121,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -874,7 +874,7 @@
       "settings": {
         "title": "How to become a sissy",
         "meta_descr": "The 7 steps to becoming a high class sissy ",
-        "order": 9,
+        "order": 10,
         "header_custom": "Sissy training  stages for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "footer_custom": "",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1446,7 +1446,7 @@
       "settings": {
         "title": "Appy now to start your sissy training ",
         "meta_descr": "How to appy for your sissy training ",
-        "order": 10,
+        "order": 11,
         "footer_custom": "",
         "header_custom": "Sissy training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1641,7 +1641,7 @@
       "settings": {
         "title": "About Your trainer Mistress Nicole",
         "meta_descr": "Learn about why Mistress Nicole is training sissies. ",
-        "order": 11,
+        "order": 12,
         "footer_custom": "",
         "header_custom": "Live with a dominatrix / BDSM Mistress, kink, fetish, worship, serve a Mistress, ",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy"
@@ -1911,7 +1911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1972,7 +1972,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Online-training",
-        "order": 8,
+        "order": 9,
         "header_custom": "Sissy webcam online training for sissies and cross dressers from a dominatrix . Live with a BDSM Mistress.  Get sissy tasks, tips, assignment, hints to be fully feminized.",
         "footer_custom": "",
         "html_before": "Cross dress, Forced feminization, sissy slave, sissy hypno, sissy, BDSM, sissy training, strap on, Dominatrix, sissy training house, sissify, sissification,  sissy feminization, forced sissification, forced sissy, webcam chat, online chat, webchat, fetish, online fetish, "
@@ -2260,7 +2260,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "10 TIPS TO HELP YOU LEARN HOW TO BEHAVE LIKE A FEMALE",
-        "order": 7,
+        "order": 8,
         "header_custom": ""
       },
       "components": [
@@ -2391,7 +2391,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "HOW TO DRESS LIKE A GIRL IN FEW HOURS",
-        "order": 6,
+        "order": 7,
         "header_custom": ""
       },
       "components": [
@@ -2522,7 +2522,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE",
-        "order": 5,
+        "order": 6,
         "header_custom": ""
       },
       "components": [
@@ -2653,7 +2653,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
-        "order": 4,
+        "order": 5,
         "header_custom": ""
       },
       "components": [
@@ -2784,7 +2784,7 @@
       "settings": {
         "meta_descr": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ",
         "title": "How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix ",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2914,7 +2914,7 @@
       "settings": {
         "meta_descr": "Sissy training with Mistress Nicole BDSM sissy story ",
         "title": "Sissy training with Mistress Nicole story&nbsp;",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3044,7 +3044,7 @@
       "settings": {
         "meta_descr": "Sissy sessions with Mistress Nicole after university lectures. Sissy story ",
         "title": "Sissy sessions with Mistress Nicole after university lectures. ",
-        "order": 1,
+        "order": 2,
         "header_custom": "",
         "footer_custom": ""
       },
@@ -3169,6 +3169,136 @@
           ],
           "_name": "extMsg-box4",
           "_anchor": "extMsg-box4-3a"
+        }
+      ]
+    },
+    "Earning the chance to wear Mistress Nicoles panties": {
+      "settings": {
+        "meta_descr": "Earning the chance to wear Mistress Nicole's panties, Find out if the sissy got to wear some sissy panties",
+        "title": "Earning the chance to wear Mistress Nicole's panties",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/night-10-2000x2000-800x800.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sissy Training House</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Becomeasissy#extFeatures13-1b\" aria-expanded=\"false\">Live in the Sissy House</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mistress-nicole-bdsm\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-2b\" aria-expanded=\"false\">Sissy Crossdresser Advice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Becomeasissy#header3-31\" aria-expanded=\"false\">Sissy Training Stories&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mistress-nicole-bdsm\">Mistress Nicole</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"online-training\">Online Training</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Appynow\">Apply&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" target=\"_blank\">Application fee £49</a></li>",
+          "_anchor": "ext_menu-3b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3d3d3d",
+            "bgText": "Sissy Training",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "Earning the chance to wear Mistress Nicole's panties&nbsp;",
+          "text": "Damon lay on the bed, prepared for what was to come. He was dressed in leather strings and a see through lacy bra, &nbsp;listening to Lady Gaga’s Born This Way. He yearned for the sight of the rose panties. But he knew the mistress would never let that happen unless he pleased her enough to deserve such rewards. And every time he was together with her, he tried as much as possible to please her enough. The last time he won such privilege, he had been forced to swallow a load of her cum. And when she’s in on the action, his mistress was an abundant squirter.\n<br>Today happened to be one of many weekends when he visited his Mistress and didn’t leave until late on Sunday afternoon. Now, lying in her bedroom, he awaited her return from the mall. She liked to eat before each performance. One could say it was to Damon’s advantage, seeing that it availed her all the strength she needed to eat him up. \n<br>She soon returned and they spent the next hour eating some Yorkshire pudding. Once they were done, she announced “Are you ready to wear your favourite panties?” before leading him back to the room like a lamb to be slaughtered.\n<br>Inside the room, she flashed the panties at him, before returning it into the wardrobe. His dick rose at the sight. Fuck! Those were his beautiful panties. He longed for the tightness of it around his loins. But to achieve that, he had to please the mistress. He was prepared to give it all it took.\n<br>His mistress stooped low and asked him to lick her ass. “Worship my ass, sissy,” she commanded. And as requested, Damon bent towards her ass in worship. He brought his tongue in a curve into her ass and lapped at it. After a few minutes of pleasuring his mistress with his tongue, she pulled her ass from his mouth and reached for the whip on the bedside table.\n<br>“You’ve gotta do better, Sissy, if you really want to wear those panties.” She said. Then, she asked him to hold on to the railing. He stood from his squatting position and lay flat on the bed, anticipating the first lash.\n<br>It came with an angry sting. He yelped. “Nice!” The mistress cheered. “I see you felt that. Maybe you’ll learn to lick my ass better next time.” \n<br>A few more beatings and they returned to pleasing her enough for the panties. His ass was red with whip marks. She brought her feet to his lips and pushed her toe into his mouth. He sucked on it for a while before she requested that he sucked her pussy. Knowing this was his final chance to win his coveted panties, he pounced on her pussy with cat-like ferocity. He licked and sucked, lifting his mistress into the skies with ecstasy.\n<br>When she finally let out a drawn out “ah” and began to squirt into his mouth, he knew he would soon be even closer to  wearing his favourite panties and getting turned on all over again.\n<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Appynow\" data-toolbar=\"-mbrBtnMove\">Live in the house</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"online-training\" data-toolbar=\"-mbrBtnMove\">Online training</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-3c"
         }
       ]
     }
