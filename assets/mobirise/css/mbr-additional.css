@@ -815,6 +815,15 @@ h6,
 #extFeatures5-2y H4 {
   font-size: 16px;
 }
+#extFeatures5-3d .mbr-iconfont-features4 {
+  color: #e6e6e6 !important;
+}
+#extFeatures5-3d .wraper {
+  border-color: #e6e6e6 !important;
+}
+#extFeatures5-3d H4 {
+  font-size: 16px;
+}
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }

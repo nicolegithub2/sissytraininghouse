@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 121,
+    "uniqCompNum": 122,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1125,6 +1125,108 @@
           "_anchor": "extFeatures5-2y"
         },
         {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "iconsBgColor": "#e6e6e6",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "A sissy husband  gets kicked out and agrees work for Mistress Nicole&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Marcus was someone who liked to avoid future dangers before they happened. This was a thing he especially learnt when he was a businessman before he lost everything. No one really wants to be caught unawares in business. ",
+          "title2": "Sissy training with Mistress Nicole&nbsp;",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mistress Nicole doesn’t just train any sissy. You have to be worth her time. Which means anyone who makes it into Mistress Nicole’s dungeon as a sissy trainee can consider themselves the goddamned luckiest sissy in all of London. You can then imagine the number of cartwheels I must have done when I received an acceptance mail from the town’s biggest mistress. ",
+          "title3": "<div>Sissy sessions with Mistress Nicole after university lectures.&nbsp;</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Every afternoon after university, I slip away from my friends and run with delight to Miss Nicole’s. It was always the same excuse – I was feeling unusually too tired for soccer practice. As I run away from the group, I would feel their questioning gaze burn my back with so much intensity.<br><br> ",
+          "title4": "Earning the chance to wear Mistress Nicole's panties.&nbsp;",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Damon lay on the bed, prepared for what was to come. He was dressed in leather strings and a see through lacy bra, &nbsp;listening to Lady Gaga’s Born This Way. He yearned for the sight of the rose panties. But he knew the mistress would never let that happen unless he pleased her enough to deserve such rewards",
+          "button1": "<a data-app-btn=\"true\" href=\"How to be a perfect sissy maid slave to a female BDSM Pro Domme Dominatrix \" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"sissy-training-with-mistress-nicole-story\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Sissy-sessions-with-mistress-nicole-sissy-training-story\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Earning the chance to wear Mistress Nicoles panties\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures5",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#e6e6e6 !important"
+            },
+            ".wraper": {
+              "border-color": "#e6e6e6 !important"
+            },
+            "H4": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "extFeatures5-3d"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1911,7 +2013,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
               "link": "",
               "alt": "",
               "title": "",
