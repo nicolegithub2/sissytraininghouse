@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SissyTrainingHouse",
-    "currentPage": "index.html",
+    "currentPage": "Appynow",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1573,7 +1573,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"mailto:myslaveisland@protonmail.ch\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+12505084428\" data-toolbar=\"-mbrBtnMove\">Text or Whatsapp</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"mailto:myslaveisland@protonmail.ch\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+447724798686\" data-toolbar=\"-mbrBtnMove\">Text or Whatsapp</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1730,7 +1730,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"mailto:myslaveisland@protonmail.ch\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+12505084428\" data-toolbar=\"-mbrBtnMove\">Text or Whatsapp</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Application+fee&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"mailto:myslaveisland@protonmail.ch\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+447724798686\" data-toolbar=\"-mbrBtnMove\">Text or Whatsapp</a> ",
           "_tags": [
             "Theme"
           ],
@@ -2013,7 +2013,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-1400x21001.jpg",
               "link": "",
               "alt": "",
               "title": "",
